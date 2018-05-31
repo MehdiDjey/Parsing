@@ -1,0 +1,3536 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="49.483930748019624" minlon="0.079262012820946" maxlat="49.530520496391240" maxlon="0.185235427785245"/></metadata>                    
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>25</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Maréchal Joffre</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maréchal Joffre</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>87</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2814.468336420000014</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>270.47263872420001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.500751801733216" lon="0.127665815376122">
+    </trkpt>
+    <trkpt lat="49.500875458843431" lon="0.127815146882878">
+    </trkpt>
+    <trkpt lat="49.500833879338074" lon="0.127895079983101">
+    </trkpt>
+    <trkpt lat="49.500870567907164" lon="0.127894677249429">
+    </trkpt>
+    <trkpt lat="49.500901911448359" lon="0.128247324916154">
+    </trkpt>
+    <trkpt lat="49.500742241614098" lon="0.128333083073939">
+    </trkpt>
+    <trkpt lat="49.500293295199434" lon="0.128439294016194">
+    </trkpt>
+    <trkpt lat="49.50029347027494" lon="0.1282558859768">
+    </trkpt>
+    <trkpt lat="49.500294554863565" lon="0.128058995015068">
+    </trkpt>
+    <trkpt lat="49.500226934108014" lon="0.128073329259038">
+    </trkpt>
+    <trkpt lat="49.500219465078224" lon="0.127969704324079">
+    </trkpt>
+    <trkpt lat="49.500063318472669" lon="0.127991601118268">
+    </trkpt>
+    <trkpt lat="49.500063055314286" lon="0.127935269302776">
+    </trkpt>
+    <trkpt lat="49.500478046045423" lon="0.127843683898868">
+    </trkpt>
+    <trkpt lat="49.500691338537571" lon="0.12779573316813">
+    </trkpt>
+    <trkpt lat="49.500751801733216" lon="0.127665815376122">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>26</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement René Coty</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>René Coty</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>880</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>20</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>13762.03024580499914</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>473.788547450488977</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.495218697422615" lon="0.112665326001648">
+    </trkpt>
+    <trkpt lat="49.494981336403299" lon="0.11130808892924">
+    </trkpt>
+    <trkpt lat="49.496095828615907" lon="0.110714057359442">
+    </trkpt>
+    <trkpt lat="49.496391642338409" lon="0.112065758968871">
+    </trkpt>
+    <trkpt lat="49.495218697422615" lon="0.112665326001648">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>27</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Colbert</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Colbert</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>436</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>9</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>11704.572220260000904</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>1564.69794254622002</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.492292087064996" lon="0.129786321809846">
+    </trkpt>
+    <trkpt lat="49.492157712035763" lon="0.129858567403088">
+    </trkpt>
+    <trkpt lat="49.491229575296693" lon="0.126106392115428">
+    </trkpt>
+    <trkpt lat="49.4911781185439" lon="0.125876980269071">
+    </trkpt>
+    <trkpt lat="49.490493085911012" lon="0.123166085809679">
+    </trkpt>
+    <trkpt lat="49.489753145300675" lon="0.119939537251576">
+    </trkpt>
+    <trkpt lat="49.489884771231345" lon="0.119871814402352">
+    </trkpt>
+    <trkpt lat="49.490634333231895" lon="0.123140198443427">
+    </trkpt>
+    <trkpt lat="49.492292087064996" lon="0.129786321809846">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>28</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement du Funiculaire</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Funiculaire</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>470</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>7</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2978.781853429999956</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>221.93243876754201</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.497696328487635" lon="0.110876067277075">
+    </trkpt>
+    <trkpt lat="49.497803813258123" lon="0.111480760857468">
+    </trkpt>
+    <trkpt lat="49.497239192993682" lon="0.111725352484831">
+    </trkpt>
+    <trkpt lat="49.497127487178005" lon="0.111119545410851">
+    </trkpt>
+    <trkpt lat="49.497696328487635" lon="0.110876067277075">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>29</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Océane - P3</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Océane - P3</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>624</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>17</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3006.296044419999816</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>226.422404225914988</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490382376843748" lon="0.13209111111701">
+    </trkpt>
+    <trkpt lat="49.490610940457131" lon="0.133004918350976">
+    </trkpt>
+    <trkpt lat="49.490254190618771" lon="0.133213510526376">
+    </trkpt>
+    <trkpt lat="49.49002580731181" lon="0.132306821933073">
+    </trkpt>
+    <trkpt lat="49.490382376843748" lon="0.13209111111701">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>30</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement des Gares</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Gares</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>491</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>16</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>7610.580388624999614</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>400.889211354829001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.491374463588826" lon="0.124929772097201">
+    </trkpt>
+    <trkpt lat="49.491014019105528" lon="0.123459964182045">
+    </trkpt>
+    <trkpt lat="49.491078953108925" lon="0.123267999324881">
+    </trkpt>
+    <trkpt lat="49.4918357641345" lon="0.123855016078621">
+    </trkpt>
+    <trkpt lat="49.491880240767784" lon="0.124025555520194">
+    </trkpt>
+    <trkpt lat="49.49158238851215" lon="0.12549412491648">
+    </trkpt>
+    <trkpt lat="49.491517130448763" lon="0.125511562767701">
+    </trkpt>
+    <trkpt lat="49.491374463588826" lon="0.124929772097201">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>31</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Président Wilson</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Président Wilson</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>21</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>450.359400984999979</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>93.215340068557694</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.496288733843429" lon="0.09996205344004">
+    </trkpt>
+    <trkpt lat="49.496413503806366" lon="0.100037962339554">
+    </trkpt>
+    <trkpt lat="49.496187686681068" lon="0.100372708944748">
+    </trkpt>
+    <trkpt lat="49.49609666828956" lon="0.100219125555925">
+    </trkpt>
+    <trkpt lat="49.496288733843429" lon="0.09996205344004">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>32</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place des Expositions</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Expositions</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>118</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>3</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2998.727482589999909</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>239.667823303093996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.494981933022068" lon="0.127104313640096">
+    </trkpt>
+    <trkpt lat="49.4957405713387" lon="0.12716591875831">
+    </trkpt>
+    <trkpt lat="49.495724211850948" lon="0.127653753923611">
+    </trkpt>
+    <trkpt lat="49.494970017770434" lon="0.127598457589189">
+    </trkpt>
+    <trkpt lat="49.494981933022068" lon="0.127104313640096">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>33</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Père Arson</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Père Arson</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>38</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>890.915393509999944</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>125.084065593294994</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.48900087149844" lon="0.112991642658465">
+    </trkpt>
+    <trkpt lat="49.48934424823932" lon="0.113171413062736">
+    </trkpt>
+    <trkpt lat="49.489284816667187" lon="0.11346437561186">
+    </trkpt>
+    <trkpt lat="49.488939059976552" lon="0.113275647230658">
+    </trkpt>
+    <trkpt lat="49.48900087149844" lon="0.112991642658465">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>34</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement de la Plage</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Plage</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>162</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>6</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>5794.800449620000109</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>349.256576271615018</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.495013522775736" lon="0.093879046783014">
+    </trkpt>
+    <trkpt lat="49.495114849445734" lon="0.093861119821322">
+    </trkpt>
+    <trkpt lat="49.495239704822197" lon="0.09420822218866">
+    </trkpt>
+    <trkpt lat="49.49419037496628" lon="0.09535792180178">
+    </trkpt>
+    <trkpt lat="49.494074780547685" lon="0.095023794760484">
+    </trkpt>
+    <trkpt lat="49.494143144956404" lon="0.094846463205244">
+    </trkpt>
+    <trkpt lat="49.49427358144581" lon="0.094553581459495">
+    </trkpt>
+    <trkpt lat="49.494410673348881" lon="0.09432609334165">
+    </trkpt>
+    <trkpt lat="49.494566563779301" lon="0.094135860731522">
+    </trkpt>
+    <trkpt lat="49.49469776478589" lon="0.094042499608666">
+    </trkpt>
+    <trkpt lat="49.494901002239175" lon="0.093925055881446">
+    </trkpt>
+    <trkpt lat="49.495013522775736" lon="0.093879046783014">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>35</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place du Champ de foire</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Champ de foire</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>321</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>9</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>7120.471180870000353</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>343.991351529909991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.494814767790821" lon="0.128667658769089">
+    </trkpt>
+    <trkpt lat="49.495737220245516" lon="0.128692643719219">
+    </trkpt>
+    <trkpt lat="49.495725659137683" lon="0.12964891739561">
+    </trkpt>
+    <trkpt lat="49.494803539327371" lon="0.129627420217618">
+    </trkpt>
+    <trkpt lat="49.494814767790821" lon="0.128667658769089">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>36</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Bonnivet</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Bonnivet</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>23</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>648.829728974999966</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>133.639076072904999</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.493978294115379" lon="0.120428565044057">
+    </trkpt>
+    <trkpt lat="49.493689815066197" lon="0.120464867878956">
+    </trkpt>
+    <trkpt lat="49.493644336701074" lon="0.120005466998222">
+    </trkpt>
+    <trkpt lat="49.493705559487047" lon="0.119981619096718">
+    </trkpt>
+    <trkpt lat="49.493728591343235" lon="0.120233084801416">
+    </trkpt>
+    <trkpt lat="49.493972305915726" lon="0.120218388207526">
+    </trkpt>
+    <trkpt lat="49.493978294115379" lon="0.120428565044057">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>37</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Frissard - P5</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Frissard - P5</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>246</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>10</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>6829.149388230000113</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>890.90079619250298</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.491398115032467" lon="0.130834645534178">
+    </trkpt>
+    <trkpt lat="49.49126806755261" lon="0.130918117848042">
+    </trkpt>
+    <trkpt lat="49.489877427803741" lon="0.125379389329316">
+    </trkpt>
+    <trkpt lat="49.49001450112803" lon="0.125306373057761">
+    </trkpt>
+    <trkpt lat="49.491398115032467" lon="0.130834645534178">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>38</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Martinique - P2</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Martinique - P2</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>171</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>4</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>4418.412499834999835</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>282.790519542017989</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.49010741241522" lon="0.133310830441164">
+    </trkpt>
+    <trkpt lat="49.490052308939902" lon="0.133497575176144">
+    </trkpt>
+    <trkpt lat="49.489309191330989" lon="0.133946279235641">
+    </trkpt>
+    <trkpt lat="49.489159637931806" lon="0.133363457438569">
+    </trkpt>
+    <trkpt lat="49.489995443893193" lon="0.132871323263457">
+    </trkpt>
+    <trkpt lat="49.49010741241522" lon="0.133310830441164">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>39</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Magellan</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Magellan</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>18</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>0</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>778.945155689999979</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>112.926481703535003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.493177531996153" lon="0.125097462850104">
+    </trkpt>
+    <trkpt lat="49.493274686271988" lon="0.125478873532664">
+    </trkpt>
+    <trkpt lat="49.493173652780555" lon="0.125732101869864">
+    </trkpt>
+    <trkpt lat="49.493116436790018" lon="0.125737444868844">
+    </trkpt>
+    <trkpt lat="49.493061820148299" lon="0.12556479345413">
+    </trkpt>
+    <trkpt lat="49.493043981167489" lon="0.12527650669008">
+    </trkpt>
+    <trkpt lat="49.493084906077684" lon="0.125171171611345">
+    </trkpt>
+    <trkpt lat="49.493177531996153" lon="0.125097462850104">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>40</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement des Halles</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Halles</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>400</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>10</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>13451.347135079999134</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>463.97442262758301</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.49100775777449" lon="0.107421217141419">
+    </trkpt>
+    <trkpt lat="49.48995092787866" lon="0.107337744598455">
+    </trkpt>
+    <trkpt lat="49.490003473578007" lon="0.105769667213014">
+    </trkpt>
+    <trkpt lat="49.49106080341339" lon="0.105838203035246">
+    </trkpt>
+    <trkpt lat="49.49100775777449" lon="0.107421217141419">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>41</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Quai de la Réunion - P1</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Docks Café - P1</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>102</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>4386.001263215000108</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>261.907776725296003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.489225563953347" lon="0.133981256488013">
+    </trkpt>
+    <trkpt lat="49.488710627072891" lon="0.134304480581258">
+    </trkpt>
+    <trkpt lat="49.48862959358317" lon="0.134268248582422">
+    </trkpt>
+    <trkpt lat="49.488442058263232" lon="0.133518318864045">
+    </trkpt>
+    <trkpt lat="49.489022698302271" lon="0.133168253633591">
+    </trkpt>
+    <trkpt lat="49.489225563953347" lon="0.133981256488013">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>42</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Porte Océane Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Porte Océane Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>46</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>974.640761610000027</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>131.231678500171</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.493726822858136" lon="0.096730859750851">
+    </trkpt>
+    <trkpt lat="49.49395227614464" lon="0.096749215698899">
+    </trkpt>
+    <trkpt lat="49.493951854094831" lon="0.096817226307737">
+    </trkpt>
+    <trkpt lat="49.493997691202864" lon="0.096822168772763">
+    </trkpt>
+    <trkpt lat="49.493985103504968" lon="0.097171616160546">
+    </trkpt>
+    <trkpt lat="49.493894197190528" lon="0.097163877171178">
+    </trkpt>
+    <trkpt lat="49.493892348094377" lon="0.09723197275154">
+    </trkpt>
+    <trkpt lat="49.493756438272626" lon="0.097225671784719">
+    </trkpt>
+    <trkpt lat="49.49375679664989" lon="0.097153426982542">
+    </trkpt>
+    <trkpt lat="49.493712413160637" lon="0.097149494442093">
+    </trkpt>
+    <trkpt lat="49.493726822858136" lon="0.096730859750851">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>43</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Porte Océane Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Porte Océane Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>66</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1700.441792739999983</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>183.18708654815299</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.49344238915031" lon="0.097201907002482">
+    </trkpt>
+    <trkpt lat="49.493439765140948" lon="0.097352286532188">
+    </trkpt>
+    <trkpt lat="49.49339910671732" lon="0.09740149530934">
+    </trkpt>
+    <trkpt lat="49.493367006382584" lon="0.097450193871772">
+    </trkpt>
+    <trkpt lat="49.493341562899218" lon="0.097498494191978">
+    </trkpt>
+    <trkpt lat="49.493320365775148" lon="0.097564086951459">
+    </trkpt>
+    <trkpt lat="49.493311271607666" lon="0.097618724598317">
+    </trkpt>
+    <trkpt lat="49.49320190895714" lon="0.097587230257165">
+    </trkpt>
+    <trkpt lat="49.493221482086859" lon="0.096704466852592">
+    </trkpt>
+    <trkpt lat="49.493502736996867" lon="0.096716936988711">
+    </trkpt>
+    <trkpt lat="49.493486384225463" lon="0.097200444717837">
+    </trkpt>
+    <trkpt lat="49.49344238915031" lon="0.097201907002482">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>44</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Mairie de Rouelles</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Mairie de Rouelles</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>41</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1260.703266624999969</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>149.457256950310011</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.52140295613691" lon="0.15955589864447">
+    </trkpt>
+    <trkpt lat="49.521310191105194" lon="0.159963586603369">
+    </trkpt>
+    <trkpt lat="49.521209235953989" lon="0.16000165931696">
+    </trkpt>
+    <trkpt lat="49.521177253625815" lon="0.160056188125031">
+    </trkpt>
+    <trkpt lat="49.520944501745575" lon="0.159809390717617">
+    </trkpt>
+    <trkpt lat="49.520953996592709" lon="0.15961574684186">
+    </trkpt>
+    <trkpt lat="49.521091436441893" lon="0.15962820373278">
+    </trkpt>
+    <trkpt lat="49.521097790820747" lon="0.159538602186869">
+    </trkpt>
+    <trkpt lat="49.521126427140175" lon="0.159541319245479">
+    </trkpt>
+    <trkpt lat="49.52140295613691" lon="0.15955589864447">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>45</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Atrium Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Atrium Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>9</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>259.381146764999983</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>65.921917928999406</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.515883456899047" lon="0.173676669028898">
+    </trkpt>
+    <trkpt lat="49.515869196487365" lon="0.173474555704942">
+    </trkpt>
+    <trkpt lat="49.516034336043141" lon="0.17345180187004">
+    </trkpt>
+    <trkpt lat="49.516043466289098" lon="0.173590588097541">
+    </trkpt>
+    <trkpt lat="49.516022864055678" lon="0.173595075069471">
+    </trkpt>
+    <trkpt lat="49.516025800962069" lon="0.173656336906722">
+    </trkpt>
+    <trkpt lat="49.515883456899047" lon="0.173676669028898">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>46</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking école Stendhal</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stendhal école</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>21</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>893.802186474999985</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>120.705979298591004</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.519881295475535" lon="0.079338179939238">
+    </trkpt>
+    <trkpt lat="49.519831753856323" lon="0.079749282077674">
+    </trkpt>
+    <trkpt lat="49.519782886925348" lon="0.079737586513745">
+    </trkpt>
+    <trkpt lat="49.519677500834945" lon="0.079787794864864">
+    </trkpt>
+    <trkpt lat="49.51954913181514" lon="0.079425472333605">
+    </trkpt>
+    <trkpt lat="49.519749849614804" lon="0.079262012820946">
+    </trkpt>
+    <trkpt lat="49.519768421844041" lon="0.079318622952253">
+    </trkpt>
+    <trkpt lat="49.519795737012764" lon="0.079306742964618">
+    </trkpt>
+    <trkpt lat="49.519881295475535" lon="0.079338179939238">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>47</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Montgeon</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Montgeon</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>118</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3135.913585729999795</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>284.334182935808997</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.516521722269566" lon="0.138872698238966">
+    </trkpt>
+    <trkpt lat="49.516413271243948" lon="0.138953670168227">
+    </trkpt>
+    <trkpt lat="49.516213344465214" lon="0.139070734915663">
+    </trkpt>
+    <trkpt lat="49.516004901036709" lon="0.139151733045341">
+    </trkpt>
+    <trkpt lat="49.515801253296161" lon="0.139195881140697">
+    </trkpt>
+    <trkpt lat="49.51552281508355" lon="0.139219560549856">
+    </trkpt>
+    <trkpt lat="49.515477907607227" lon="0.139175394713406">
+    </trkpt>
+    <trkpt lat="49.515444780433839" lon="0.139107134578522">
+    </trkpt>
+    <trkpt lat="49.515420102331234" lon="0.139033989948057">
+    </trkpt>
+    <trkpt lat="49.515407968698078" lon="0.138967420336671">
+    </trkpt>
+    <trkpt lat="49.515418911012858" lon="0.138909733765543">
+    </trkpt>
+    <trkpt lat="49.515437606533474" lon="0.138857441548497">
+    </trkpt>
+    <trkpt lat="49.515467563179058" lon="0.138836666573807">
+    </trkpt>
+    <trkpt lat="49.515541807811154" lon="0.138835227937661">
+    </trkpt>
+    <trkpt lat="49.515735099807564" lon="0.138834103546666">
+    </trkpt>
+    <trkpt lat="49.515862341518911" lon="0.138819309918782">
+    </trkpt>
+    <trkpt lat="49.516038266537855" lon="0.138770939676089">
+    </trkpt>
+    <trkpt lat="49.516198285541428" lon="0.138695712425594">
+    </trkpt>
+    <trkpt lat="49.516385667365704" lon="0.138572069816118">
+    </trkpt>
+    <trkpt lat="49.516423668373321" lon="0.138568372110785">
+    </trkpt>
+    <trkpt lat="49.516521722269566" lon="0.138872698238966">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>48</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Deschaseaux</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Deschaseaux</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>362</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>8435.853321860000506</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>453.014342435878973</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.50121582341086" lon="0.169984565558426">
+    </trkpt>
+    <trkpt lat="49.501226639516346" lon="0.170028960679065">
+    </trkpt>
+    <trkpt lat="49.501196600576378" lon="0.170482771080497">
+    </trkpt>
+    <trkpt lat="49.501170963911242" lon="0.171026737257092">
+    </trkpt>
+    <trkpt lat="49.501167381117533" lon="0.171654229936377">
+    </trkpt>
+    <trkpt lat="49.501184864476848" lon="0.172111796596172">
+    </trkpt>
+    <trkpt lat="49.501199286132007" lon="0.172349298259219">
+    </trkpt>
+    <trkpt lat="49.501184790820041" lon="0.172379384538877">
+    </trkpt>
+    <trkpt lat="49.501154057315681" lon="0.172407489002673">
+    </trkpt>
+    <trkpt lat="49.501089680990084" lon="0.172422924393648">
+    </trkpt>
+    <trkpt lat="49.500962542821384" lon="0.172442006062248">
+    </trkpt>
+    <trkpt lat="49.500799089773288" lon="0.172455885225254">
+    </trkpt>
+    <trkpt lat="49.500723869758062" lon="0.169983307315471">
+    </trkpt>
+    <trkpt lat="49.501180701186598" lon="0.169952123578998">
+    </trkpt>
+    <trkpt lat="49.501200651600222" lon="0.169964670839849">
+    </trkpt>
+    <trkpt lat="49.50121582341086" lon="0.169984565558426">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>49</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Demidoff, angle Mazeline</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Demidoff/Mazeline</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>22</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>639.862371609999968</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>105.509821070705996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.497643137053394" lon="0.136903815787459">
+    </trkpt>
+    <trkpt lat="49.497668926779895" lon="0.137365060603334">
+    </trkpt>
+    <trkpt lat="49.497498829528318" lon="0.137389317011235">
+    </trkpt>
+    <trkpt lat="49.497474247313868" lon="0.136919230116188">
+    </trkpt>
+    <trkpt lat="49.497643137053394" lon="0.136903815787459">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>50</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Dicquemare Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Dicquemare Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>19</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>433.367889085</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>86.4877990541342</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490406393714004" lon="0.103100301319371">
+    </trkpt>
+    <trkpt lat="49.490398461492561" lon="0.103314214882652">
+    </trkpt>
+    <trkpt lat="49.490152390433614" lon="0.103299614626694">
+    </trkpt>
+    <trkpt lat="49.490159188661828" lon="0.103078459543033">
+    </trkpt>
+    <trkpt lat="49.490406393714004" lon="0.103100301319371">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>51</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Dicquemare Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Dicquemare Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>14</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>3</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>414.892414154999983</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>82.864656500314595</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490858713590235" lon="0.103362858820593">
+    </trkpt>
+    <trkpt lat="49.490866094065872" lon="0.103127046967446">
+    </trkpt>
+    <trkpt lat="49.491085612942896" lon="0.10314615046551">
+    </trkpt>
+    <trkpt lat="49.491079073393358" lon="0.103377527515268">
+    </trkpt>
+    <trkpt lat="49.490858713590235" lon="0.103362858820593">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>52</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parvis Saint Michel Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Parvis Saint Michel</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>77</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2314.89658676</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>212.530398014665991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.49638440414504" lon="0.108305779336474">
+    </trkpt>
+    <trkpt lat="49.496968101551751" lon="0.108312706285263">
+    </trkpt>
+    <trkpt lat="49.497032651098159" lon="0.108473805553566">
+    </trkpt>
+    <trkpt lat="49.49710338563596" lon="0.108540883771447">
+    </trkpt>
+    <trkpt lat="49.497091998708903" lon="0.10884495026049">
+    </trkpt>
+    <trkpt lat="49.496867753565901" lon="0.108827196356222">
+    </trkpt>
+    <trkpt lat="49.496866788146299" lon="0.108788872097711">
+    </trkpt>
+    <trkpt lat="49.49671646167495" lon="0.108728347815693">
+    </trkpt>
+    <trkpt lat="49.496475437570133" lon="0.108706107688546">
+    </trkpt>
+    <trkpt lat="49.49638440414504" lon="0.108305779336474">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>53</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Beauvallet</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Beauvallet</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>28</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>778.75378003000003</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>121.075655849998</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.487229739735739" lon="0.102237063230969">
+    </trkpt>
+    <trkpt lat="49.486937458535067" lon="0.102504426232772">
+    </trkpt>
+    <trkpt lat="49.486918624457694" lon="0.102512856363137">
+    </trkpt>
+    <trkpt lat="49.486909078839766" lon="0.102511961547598">
+    </trkpt>
+    <trkpt lat="49.486886728624455" lon="0.102494288081118">
+    </trkpt>
+    <trkpt lat="49.486869862683882" lon="0.102467517408288">
+    </trkpt>
+    <trkpt lat="49.486792581491962" lon="0.102273307142181">
+    </trkpt>
+    <trkpt lat="49.487166507470747" lon="0.102071252938688">
+    </trkpt>
+    <trkpt lat="49.487229739735739" lon="0.102237063230969">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>54</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place du Chillou</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Chillou</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>161</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3244.56426276000002</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>234.579015505291011</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.491848165330801" lon="0.110302472611577">
+    </trkpt>
+    <trkpt lat="49.491827357001583" lon="0.110913347580258">
+    </trkpt>
+    <trkpt lat="49.49117688862475" lon="0.110874455523495">
+    </trkpt>
+    <trkpt lat="49.491194468516667" lon="0.110252812224614">
+    </trkpt>
+    <trkpt lat="49.491848165330801" lon="0.110302472611577">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>55</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Danton</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Danton</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>89</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>4</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2255.666385250000076</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>190.637630342684986</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.494510934663914" lon="0.122080634067551">
+    </trkpt>
+    <trkpt lat="49.494907191240806" lon="0.122030975751031">
+    </trkpt>
+    <trkpt lat="49.494954973183319" lon="0.122724900832929">
+    </trkpt>
+    <trkpt lat="49.494568221523643" lon="0.122800228434429">
+    </trkpt>
+    <trkpt lat="49.494510934663914" lon="0.122080634067551">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>56</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place des Halles Centrales</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Halles centrales</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>122</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>4</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>7001.662716425000326</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>336.030302862107987</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490864822687904" lon="0.104027264112248">
+    </trkpt>
+    <trkpt lat="49.490831285850547" lon="0.105076008126952">
+    </trkpt>
+    <trkpt lat="49.49000853285721" lon="0.105021852951161">
+    </trkpt>
+    <trkpt lat="49.490044827569541" lon="0.103959805333735">
+    </trkpt>
+    <trkpt lat="49.490864822687904" lon="0.104027264112248">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>57</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Arthur Honegger</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Honegger</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>55</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1210.578194234999955</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>139.416159893345991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.489908104016713" lon="0.104359040016668">
+    </trkpt>
+    <trkpt lat="49.489889530756059" lon="0.104811875959114">
+    </trkpt>
+    <trkpt lat="49.489560308503783" lon="0.104785398382146">
+    </trkpt>
+    <trkpt lat="49.489574629809141" lon="0.104333916465127">
+    </trkpt>
+    <trkpt lat="49.489908104016713" lon="0.104359040016668">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>58</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place du Vieux Marché</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Vieux marché</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>94</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2797.659647835000214</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>243.54381063611001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.487460348310421" lon="0.108825931652023">
+    </trkpt>
+    <trkpt lat="49.487493844627927" lon="0.107695682974939">
+    </trkpt>
+    <trkpt lat="49.48774097065008" lon="0.107717123431029">
+    </trkpt>
+    <trkpt lat="49.48772709661511" lon="0.108249600405294">
+    </trkpt>
+    <trkpt lat="49.487842147065017" lon="0.108258660312639">
+    </trkpt>
+    <trkpt lat="49.487822608561174" lon="0.1088419529117">
+    </trkpt>
+    <trkpt lat="49.487460348310421" lon="0.108825931652023">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>59</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Desmallières</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Desmallières</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>34</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>797.768041880000055</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>145.554261529819996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.499590194387245" lon="0.143733621691903">
+    </trkpt>
+    <trkpt lat="49.499595706315766" lon="0.14380202087112">
+    </trkpt>
+    <trkpt lat="49.499565276458299" lon="0.143803805969766">
+    </trkpt>
+    <trkpt lat="49.499566947731473" lon="0.143870968707028">
+    </trkpt>
+    <trkpt lat="49.499076524490434" lon="0.143909971922988">
+    </trkpt>
+    <trkpt lat="49.499067597396916" lon="0.143704331610511">
+    </trkpt>
+    <trkpt lat="49.499501989317942" lon="0.14367153684783">
+    </trkpt>
+    <trkpt lat="49.499504611258303" lon="0.143738642346352">
+    </trkpt>
+    <trkpt lat="49.499590194387245" lon="0.143733621691903">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>60</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Docteur Levesque</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Docteur Levesque</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>80</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2772.418675254999926</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>214.384733988036999</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.518434167692064" lon="0.095836333718683">
+    </trkpt>
+    <trkpt lat="49.518446973851105" lon="0.095867980933256">
+    </trkpt>
+    <trkpt lat="49.518451467266416" lon="0.095901799355662">
+    </trkpt>
+    <trkpt lat="49.518402883433467" lon="0.096613253294803">
+    </trkpt>
+    <trkpt lat="49.518396852114513" lon="0.09663372886069">
+    </trkpt>
+    <trkpt lat="49.518383010146763" lon="0.096647407188355">
+    </trkpt>
+    <trkpt lat="49.518365125537017" lon="0.096645121013761">
+    </trkpt>
+    <trkpt lat="49.517859080377058" lon="0.096271303659629">
+    </trkpt>
+    <trkpt lat="49.517827092992611" lon="0.096243595804921">
+    </trkpt>
+    <trkpt lat="49.5178170554682" lon="0.09622072609798">
+    </trkpt>
+    <trkpt lat="49.517809868078054" lon="0.096195450063588">
+    </trkpt>
+    <trkpt lat="49.517807222690919" lon="0.096177167516789">
+    </trkpt>
+    <trkpt lat="49.517806394078775" lon="0.096158777956759">
+    </trkpt>
+    <trkpt lat="49.517809137677929" lon="0.096123410021046">
+    </trkpt>
+    <trkpt lat="49.517817735922492" lon="0.096089369281305">
+    </trkpt>
+    <trkpt lat="49.517826520617831" lon="0.09607711084263">
+    </trkpt>
+    <trkpt lat="49.51794958570197" lon="0.095980360478062">
+    </trkpt>
+    <trkpt lat="49.518010450673529" lon="0.095941525747884">
+    </trkpt>
+    <trkpt lat="49.518087142679214" lon="0.095895598765881">
+    </trkpt>
+    <trkpt lat="49.518157286169121" lon="0.095864031689714">
+    </trkpt>
+    <trkpt lat="49.518226452704134" lon="0.095836994049201">
+    </trkpt>
+    <trkpt lat="49.518304784932056" lon="0.095812762475333">
+    </trkpt>
+    <trkpt lat="49.518382546404204" lon="0.095794711288635">
+    </trkpt>
+    <trkpt lat="49.518401996772134" lon="0.095801373584041">
+    </trkpt>
+    <trkpt lat="49.518417620028899" lon="0.095814970439314">
+    </trkpt>
+    <trkpt lat="49.518434167692064" lon="0.095836333718683">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>61</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place James de Coninck</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Coninck</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>28</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1532.731716790000064</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>156.766783562451991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.509011328663114" lon="0.127759424785691">
+    </trkpt>
+    <trkpt lat="49.509281609785155" lon="0.127714227076232">
+    </trkpt>
+    <trkpt lat="49.509347040269184" lon="0.127703053484761">
+    </trkpt>
+    <trkpt lat="49.509431632681341" lon="0.127702815685025">
+    </trkpt>
+    <trkpt lat="49.509485830436461" lon="0.127704187555133">
+    </trkpt>
+    <trkpt lat="49.509509419280697" lon="0.12771924962989">
+    </trkpt>
+    <trkpt lat="49.509530932279461" lon="0.12774485214358">
+    </trkpt>
+    <trkpt lat="49.509530601207736" lon="0.127807759325097">
+    </trkpt>
+    <trkpt lat="49.509427966680882" lon="0.128120935663041">
+    </trkpt>
+    <trkpt lat="49.509394793122866" lon="0.128165305116666">
+    </trkpt>
+    <trkpt lat="49.509358364955133" lon="0.128193778813027">
+    </trkpt>
+    <trkpt lat="49.509334883713557" lon="0.128206864366804">
+    </trkpt>
+    <trkpt lat="49.5093063196841" lon="0.128207086110249">
+    </trkpt>
+    <trkpt lat="49.509285436387607" lon="0.128209781518675">
+    </trkpt>
+    <trkpt lat="49.509109082388342" lon="0.128050538627668">
+    </trkpt>
+    <trkpt lat="49.509068157548292" lon="0.128013466481593">
+    </trkpt>
+    <trkpt lat="49.509030451503492" lon="0.127952804099132">
+    </trkpt>
+    <trkpt lat="49.509008216439639" lon="0.127901467185816">
+    </trkpt>
+    <trkpt lat="49.50899285192083" lon="0.127775047982346">
+    </trkpt>
+    <trkpt lat="49.509011328663114" lon="0.127759424785691">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>62</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Maison des Syndicats Est</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maison des Syndicats Est</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>31</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1264.003230665000046</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>236.857383595875007</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498351617586934" lon="0.127654661895282">
+    </trkpt>
+    <trkpt lat="49.498328134162747" lon="0.127743776001029">
+    </trkpt>
+    <trkpt lat="49.49788924854672" lon="0.127787211823066">
+    </trkpt>
+    <trkpt lat="49.497760987430198" lon="0.127685118269805">
+    </trkpt>
+    <trkpt lat="49.497748644725895" lon="0.12764856142536">
+    </trkpt>
+    <trkpt lat="49.497694784156579" lon="0.127094667046535">
+    </trkpt>
+    <trkpt lat="49.497845099656828" lon="0.127221777434078">
+    </trkpt>
+    <trkpt lat="49.49777597095607" lon="0.1274276299878">
+    </trkpt>
+    <trkpt lat="49.497838674834512" lon="0.12747876124088">
+    </trkpt>
+    <trkpt lat="49.497825288040737" lon="0.127514642149748">
+    </trkpt>
+    <trkpt lat="49.497952178173492" lon="0.127619008787989">
+    </trkpt>
+    <trkpt lat="49.497963974670597" lon="0.127576642718407">
+    </trkpt>
+    <trkpt lat="49.498026568834995" lon="0.12762339303738">
+    </trkpt>
+    <trkpt lat="49.498082201492153" lon="0.127449040869156">
+    </trkpt>
+    <trkpt lat="49.498351617586934" lon="0.127654661895282">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>63</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Maison des Syndicats Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maison des Syndicats Ouest</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>41</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>821.862827160000052</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>112.220993898117001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498393545115796" lon="0.126989834041141">
+    </trkpt>
+    <trkpt lat="49.498400892847187" lon="0.12716924472346">
+    </trkpt>
+    <trkpt lat="49.498408788413705" lon="0.12737055534727">
+    </trkpt>
+    <trkpt lat="49.498362705131825" lon="0.127412752187635">
+    </trkpt>
+    <trkpt lat="49.498103492959366" lon="0.127215304591486">
+    </trkpt>
+    <trkpt lat="49.498201973170183" lon="0.126926568806723">
+    </trkpt>
+    <trkpt lat="49.498265667017257" lon="0.126903070713187">
+    </trkpt>
+    <trkpt lat="49.498393545115796" lon="0.126989834041141">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>64</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Salle des Fêtes de Caucriauville</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Caucriauville - Salle des Fêtes</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>42</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>998.218020915000011</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>157.364744751767006</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.513745243411428" lon="0.17890001190671">
+    </trkpt>
+    <trkpt lat="49.513656105932753" lon="0.179070448749433">
+    </trkpt>
+    <trkpt lat="49.513216088124814" lon="0.178525551811434">
+    </trkpt>
+    <trkpt lat="49.51330712611103" lon="0.17835500667642">
+    </trkpt>
+    <trkpt lat="49.513745243411428" lon="0.17890001190671">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>65</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking gymnase Edouard Vaillant Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>gymnase Edouard Vaillant Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>35</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>852.186451795000039</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>158.098276605311014</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.512663060398509" lon="0.180336094475721">
+    </trkpt>
+    <trkpt lat="49.512755845633997" lon="0.179732539915405">
+    </trkpt>
+    <trkpt lat="49.512792610895133" lon="0.179562216568989">
+    </trkpt>
+    <trkpt lat="49.512827096275103" lon="0.179415426664693">
+    </trkpt>
+    <trkpt lat="49.512884899984144" lon="0.180295454610551">
+    </trkpt>
+    <trkpt lat="49.512663060398509" lon="0.180336094475721">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>66</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking gymnase Edouard Vaillant Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>gymnase Edouard Vaillant Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>53</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1803.640218300000015</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>188.524588167989009</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.51271612327065" lon="0.179433557907582">
+    </trkpt>
+    <trkpt lat="49.512676248600229" lon="0.179696339336949">
+    </trkpt>
+    <trkpt lat="49.512657467696265" lon="0.179798203002006">
+    </trkpt>
+    <trkpt lat="49.512631504433372" lon="0.17994303628896">
+    </trkpt>
+    <trkpt lat="49.512578426347794" lon="0.180340997084822">
+    </trkpt>
+    <trkpt lat="49.512422866235589" lon="0.180366095099225">
+    </trkpt>
+    <trkpt lat="49.512361295471067" lon="0.179487755797584">
+    </trkpt>
+    <trkpt lat="49.51271612327065" lon="0.179433557907582">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>67</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Emile Dupont/Raoul Ancel</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Dupont/Ancel</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>16</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>350.548745880000013</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>78.924349427269306</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.506547219858312" lon="0.161146243902975">
+    </trkpt>
+    <trkpt lat="49.506402202588106" lon="0.161154700491711">
+    </trkpt>
+    <trkpt lat="49.506398922284177" lon="0.160829514829382">
+    </trkpt>
+    <trkpt lat="49.506497077755618" lon="0.160827446451704">
+    </trkpt>
+    <trkpt lat="49.506498793226903" lon="0.160896809030218">
+    </trkpt>
+    <trkpt lat="49.506543962637764" lon="0.160894174765771">
+    </trkpt>
+    <trkpt lat="49.506547219858312" lon="0.161146243902975">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>68</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Ferrer</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Ferrer</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>400</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>11</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>9897.441328925000562</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>571.225831406649945</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.4897938198609" lon="0.138250438105191">
+    </trkpt>
+    <trkpt lat="49.489658033479124" lon="0.138457232464275">
+    </trkpt>
+    <trkpt lat="49.489477494065305" lon="0.138549706332064">
+    </trkpt>
+    <trkpt lat="49.488993303455153" lon="0.139373407582605">
+    </trkpt>
+    <trkpt lat="49.488678372384392" lon="0.139041063433691">
+    </trkpt>
+    <trkpt lat="49.488865891713893" lon="0.138693820362897">
+    </trkpt>
+    <trkpt lat="49.48843108505649" lon="0.1369154514854">
+    </trkpt>
+    <trkpt lat="49.488465035129323" lon="0.136825744958223">
+    </trkpt>
+    <trkpt lat="49.488524873931581" lon="0.136781294293623">
+    </trkpt>
+    <trkpt lat="49.488744452696082" lon="0.136879485998068">
+    </trkpt>
+    <trkpt lat="49.489067987601054" lon="0.138167370636668">
+    </trkpt>
+    <trkpt lat="49.489556205407602" lon="0.137887236413199">
+    </trkpt>
+    <trkpt lat="49.4897938198609" lon="0.138250438105191">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>69</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Hannès Montlairy</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Montlairy</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>44</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1072.646855814999981</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>166.391557688630996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.517732981655598" lon="0.103433247276208">
+    </trkpt>
+    <trkpt lat="49.517903138932894" lon="0.104327103527771">
+    </trkpt>
+    <trkpt lat="49.517766509585918" lon="0.104384965441971">
+    </trkpt>
+    <trkpt lat="49.517593993704736" lon="0.103497616549356">
+    </trkpt>
+    <trkpt lat="49.517732981655598" lon="0.103433247276208">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>70</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Henri Chandelier</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Henri Chandelier</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>28</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>697.311480895000045</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>138.862948230602996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.506081770620305" lon="0.099725194449826">
+    </trkpt>
+    <trkpt lat="49.506032069843428" lon="0.100245845708087">
+    </trkpt>
+    <trkpt lat="49.506103539233592" lon="0.100436087258615">
+    </trkpt>
+    <trkpt lat="49.506017309964079" lon="0.100490945686514">
+    </trkpt>
+    <trkpt lat="49.505917898277211" lon="0.100278420976919">
+    </trkpt>
+    <trkpt lat="49.505969352140653" lon="0.099692845308101">
+    </trkpt>
+    <trkpt lat="49.506081770620305" lon="0.099725194449826">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>71</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Henri Dunant</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Henri Dunant</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>23</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>661.308531545000051</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>128.03266470708499</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.521628664370468" lon="0.129154081477019">
+    </trkpt>
+    <trkpt lat="49.521617501326659" lon="0.129355150070204">
+    </trkpt>
+    <trkpt lat="49.521190688159898" lon="0.12931011016689">
+    </trkpt>
+    <trkpt lat="49.521200349547058" lon="0.1291632562096">
+    </trkpt>
+    <trkpt lat="49.521315043782579" lon="0.129179896669413">
+    </trkpt>
+    <trkpt lat="49.521316910541508" lon="0.12914029000578">
+    </trkpt>
+    <trkpt lat="49.521419206629922" lon="0.129156198062643">
+    </trkpt>
+    <trkpt lat="49.52142699910452" lon="0.129086984521009">
+    </trkpt>
+    <trkpt lat="49.521628664370468" lon="0.129154081477019">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>72</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Henri Wallon Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Henri Wallon Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>24</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>496.765572949999978</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>98.122375905251999</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.522627271995837" lon="0.116110648033194">
+    </trkpt>
+    <trkpt lat="49.522522536624543" lon="0.1162631436684">
+    </trkpt>
+    <trkpt lat="49.522322561965986" lon="0.11592243969234">
+    </trkpt>
+    <trkpt lat="49.522396140292592" lon="0.115818603043163">
+    </trkpt>
+    <trkpt lat="49.522430122744375" lon="0.115882418572008">
+    </trkpt>
+    <trkpt lat="49.522464242155451" lon="0.115837972533019">
+    </trkpt>
+    <trkpt lat="49.522627271995837" lon="0.116110648033194">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>73</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Henri Wallon Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Henri Wallon Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>14</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>292.023634635</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>68.614983141174704</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.522256860042233" lon="0.116373058897368">
+    </trkpt>
+    <trkpt lat="49.522142073487757" lon="0.116186944164548">
+    </trkpt>
+    <trkpt lat="49.52224357641466" lon="0.11603372744785">
+    </trkpt>
+    <trkpt lat="49.522357266217355" lon="0.116223564633248">
+    </trkpt>
+    <trkpt lat="49.522256860042233" lon="0.116373058897368">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>74</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking 8 mai 1945</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>8 mai 1945</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>69</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1217.335996309999928</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>156.02799145348601</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.514864045888174" lon="0.173453357595519">
+    </trkpt>
+    <trkpt lat="49.51488313105699" lon="0.173725758019715">
+    </trkpt>
+    <trkpt lat="49.514705844358225" lon="0.173757991328771">
+    </trkpt>
+    <trkpt lat="49.514719184153435" lon="0.173951743936453">
+    </trkpt>
+    <trkpt lat="49.514505870192785" lon="0.173990455846771">
+    </trkpt>
+    <trkpt lat="49.514469569226669" lon="0.173521606629988">
+    </trkpt>
+    <trkpt lat="49.514864045888174" lon="0.173453357595519">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>75</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jean le Brozec Nord/Ouest</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean le Brozec Nord/Ouest</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>29</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>687.120771229999946</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>105.507950351313994</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498696288651686" lon="0.132590166183309">
+    </trkpt>
+    <trkpt lat="49.498679421034403" lon="0.132143739427141">
+    </trkpt>
+    <trkpt lat="49.498846334966075" lon="0.132135004902517">
+    </trkpt>
+    <trkpt lat="49.498876779760877" lon="0.1321814628923">
+    </trkpt>
+    <trkpt lat="49.498885942561124" lon="0.132576803077558">
+    </trkpt>
+    <trkpt lat="49.498696288651686" lon="0.132590166183309">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>76</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jean le Brozec Sud/Est</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean le Brozec Sud/Est</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>16</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>421.986957775</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>91.605908999980102</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498548848630051" lon="0.133928495913676">
+    </trkpt>
+    <trkpt lat="49.49840297311723" lon="0.133945068150695">
+    </trkpt>
+    <trkpt lat="49.498385881134105" lon="0.133468912306321">
+    </trkpt>
+    <trkpt lat="49.498540277925741" lon="0.133689419150686">
+    </trkpt>
+    <trkpt lat="49.498548848630051" lon="0.133928495913676">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>77</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jean le Brozec Nord/Est</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean le Brozec Nord/Est</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>15</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>306.73857518</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>71.389620748293694</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498738314087404" lon="0.133715741365422">
+    </trkpt>
+    <trkpt lat="49.498929449662825" lon="0.133704489342652">
+    </trkpt>
+    <trkpt lat="49.498936803758802" lon="0.133903640478941">
+    </trkpt>
+    <trkpt lat="49.498745649940766" lon="0.133914161948167">
+    </trkpt>
+    <trkpt lat="49.498738314087404" lon="0.133715741365422">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>78</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jean le Brozec Sud/Ouest</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean le Brozec Sud/Ouest</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>10</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>359.427573629999983</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>80.391798313945401</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498357466123892" lon="0.132422481737365">
+    </trkpt>
+    <trkpt lat="49.498348789151656" lon="0.132132390140171">
+    </trkpt>
+    <trkpt lat="49.498567025287876" lon="0.132119535717411">
+    </trkpt>
+    <trkpt lat="49.498567815525497" lon="0.132208315102502">
+    </trkpt>
+    <trkpt lat="49.498396581843686" lon="0.132415791573778">
+    </trkpt>
+    <trkpt lat="49.498357466123892" lon="0.132422481737365">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>79</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Jean Macé</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean Macé</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>11</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>207.267817939999986</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>63.572725369523297</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.487889195545783" lon="0.109272019061781">
+    </trkpt>
+    <trkpt lat="49.487924207652327" lon="0.109357653020765">
+    </trkpt>
+    <trkpt lat="49.48775405238149" lon="0.109521246264195">
+    </trkpt>
+    <trkpt lat="49.48770027127491" lon="0.109389948546925">
+    </trkpt>
+    <trkpt lat="49.487889195545783" lon="0.109272019061781">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>80</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Patinoire</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Patinoire</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>65</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1893.419390549999889</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>199.282272258389014</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.507653136358172" lon="0.133681578357622">
+    </trkpt>
+    <trkpt lat="49.50768993097126" lon="0.133772641631445">
+    </trkpt>
+    <trkpt lat="49.507753177040165" lon="0.134112588334861">
+    </trkpt>
+    <trkpt lat="49.507726157167205" lon="0.134126974669594">
+    </trkpt>
+    <trkpt lat="49.507743109451468" lon="0.134233830280977">
+    </trkpt>
+    <trkpt lat="49.50765749430893" lon="0.134619101615998">
+    </trkpt>
+    <trkpt lat="49.507664663871019" lon="0.134715564177052">
+    </trkpt>
+    <trkpt lat="49.507571580166434" lon="0.134753948106381">
+    </trkpt>
+    <trkpt lat="49.507392283784803" lon="0.133705939905947">
+    </trkpt>
+    <trkpt lat="49.507653136358172" lon="0.133681578357622">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>81</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Jenner</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jenner</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>32</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>870.01513865000004</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>151.954017376916994</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.507884237520841" lon="0.13467435151667">
+    </trkpt>
+    <trkpt lat="49.507884273957366" lon="0.134675811338767">
+    </trkpt>
+    <trkpt lat="49.507937912873842" lon="0.134840834373366">
+    </trkpt>
+    <trkpt lat="49.507897716106974" lon="0.134870985900849">
+    </trkpt>
+    <trkpt lat="49.50788882285962" lon="0.1349343946223">
+    </trkpt>
+    <trkpt lat="49.507929308134592" lon="0.134953948282863">
+    </trkpt>
+    <trkpt lat="49.507827919028685" lon="0.135432279331194">
+    </trkpt>
+    <trkpt lat="49.507793285094529" lon="0.135418230231171">
+    </trkpt>
+    <trkpt lat="49.507676387551321" lon="0.135504081146903">
+    </trkpt>
+    <trkpt lat="49.507654444116064" lon="0.135502447066631">
+    </trkpt>
+    <trkpt lat="49.507812875275583" lon="0.134753135609672">
+    </trkpt>
+    <trkpt lat="49.507884237520841" lon="0.13467435151667">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>82</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jenner</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Place Jenner</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>24</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>796.06611675</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>135.406048813805</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.509093481168534" lon="0.137214944595215">
+    </trkpt>
+    <trkpt lat="49.509133004917175" lon="0.137415537286458">
+    </trkpt>
+    <trkpt lat="49.508683718702422" lon="0.137633903702656">
+    </trkpt>
+    <trkpt lat="49.508641863403007" lon="0.137435277988291">
+    </trkpt>
+    <trkpt lat="49.509093481168534" lon="0.137214944595215">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>83</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place de la Liberté</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Liberté</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>63</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3104.281925020000017</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>220.89673605654599</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.506110455558002" lon="0.142489929422551">
+    </trkpt>
+    <trkpt lat="49.506110528232377" lon="0.142492848972094">
+    </trkpt>
+    <trkpt lat="49.506414716420984" lon="0.142929794924801">
+    </trkpt>
+    <trkpt lat="49.506459349942368" lon="0.143077799939039">
+    </trkpt>
+    <trkpt lat="49.506472074835592" lon="0.143321270851977">
+    </trkpt>
+    <trkpt lat="49.506426303048514" lon="0.14343363506254">
+    </trkpt>
+    <trkpt lat="49.506354795338737" lon="0.143468540899877">
+    </trkpt>
+    <trkpt lat="49.506259485283188" lon="0.14346535923916">
+    </trkpt>
+    <trkpt lat="49.505793138878687" lon="0.142979435403521">
+    </trkpt>
+    <trkpt lat="49.505779365492714" lon="0.142885189994058">
+    </trkpt>
+    <trkpt lat="49.506110455558002" lon="0.142489929422551">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>84</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parvis Saint-Joseph Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Saint-Joseph Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>7</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>173.70337696499999</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>53.377669281747103</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.491130650469096" lon="0.100593228647365">
+    </trkpt>
+    <trkpt lat="49.491234594482542" lon="0.10059869851913">
+    </trkpt>
+    <trkpt lat="49.491229427792852" lon="0.100807564456433">
+    </trkpt>
+    <trkpt lat="49.491125354312764" lon="0.100798180138946">
+    </trkpt>
+    <trkpt lat="49.491130650469096" lon="0.100593228647365">
+    </trkpt>
+  </trkseg>
+  <trkseg>
+    <trkpt lat="49.491130651325165" lon="0.100593191299397">
+    </trkpt>
+    <trkpt lat="49.491130650469096" lon="0.100593228647365">
+    </trkpt>
+    <trkpt lat="49.491129699823468" lon="0.100593247952524">
+    </trkpt>
+    <trkpt lat="49.491130651325165" lon="0.100593191299397">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>85</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parvis Saint-Joseph Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Saint-Joseph Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>8</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>186.8618945</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>55.071783572923799</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490860117941367" lon="0.100778884701121">
+    </trkpt>
+    <trkpt lat="49.490752444351351" lon="0.100776523574822">
+    </trkpt>
+    <trkpt lat="49.490756568533385" lon="0.100562834496986">
+    </trkpt>
+    <trkpt lat="49.490867168610848" lon="0.100567945250513">
+    </trkpt>
+    <trkpt lat="49.490860117941367" lon="0.100778884701121">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>86</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Lucien Sampaix</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Lucien Sampaix</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>42</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1345.577600780000012</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>150.630380683214014</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.505178478442659" lon="0.184559853518103">
+    </trkpt>
+    <trkpt lat="49.505319675667309" lon="0.184900450234532">
+    </trkpt>
+    <trkpt lat="49.504970065982604" lon="0.185235427785245">
+    </trkpt>
+    <trkpt lat="49.504824751215153" lon="0.184901651726192">
+    </trkpt>
+    <trkpt lat="49.505178478442659" lon="0.184559853518103">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>87</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking LIA - Grand Hameau</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>LIA - Grand Hameau</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>133</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3910.981174869999904</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>296.237195216136001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.53052049639124" lon="0.10515393147048">
+    </trkpt>
+    <trkpt lat="49.530101673282289" lon="0.106598074506046">
+    </trkpt>
+    <trkpt lat="49.529979430124371" lon="0.106508778257259">
+    </trkpt>
+    <trkpt lat="49.530043804786132" lon="0.105208628111785">
+    </trkpt>
+    <trkpt lat="49.530100893517456" lon="0.104979910751357">
+    </trkpt>
+    <trkpt lat="49.530141273387912" lon="0.104995065638977">
+    </trkpt>
+    <trkpt lat="49.530162032821465" lon="0.104911895368715">
+    </trkpt>
+    <trkpt lat="49.53052049639124" lon="0.10515393147048">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>88</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Stade Océane</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stade Océane</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>116</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>4540.572563914999591</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>304.245088565545984</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.499598851271344" lon="0.166699986056408">
+    </trkpt>
+    <trkpt lat="49.499629724421844" lon="0.166962808792152">
+    </trkpt>
+    <trkpt lat="49.499587175578711" lon="0.166975153069872">
+    </trkpt>
+    <trkpt lat="49.499593302946671" lon="0.167020855094352">
+    </trkpt>
+    <trkpt lat="49.499619556468708" lon="0.167013844094007">
+    </trkpt>
+    <trkpt lat="49.499637218829591" lon="0.16720856334491">
+    </trkpt>
+    <trkpt lat="49.499698082392875" lon="0.167735786635893">
+    </trkpt>
+    <trkpt lat="49.499659363763463" lon="0.167700753265336">
+    </trkpt>
+    <trkpt lat="49.499618197663359" lon="0.167682312600309">
+    </trkpt>
+    <trkpt lat="49.499571651069893" lon="0.167677342958817">
+    </trkpt>
+    <trkpt lat="49.499523034429565" lon="0.167704297273166">
+    </trkpt>
+    <trkpt lat="49.499494360394067" lon="0.167728994499499">
+    </trkpt>
+    <trkpt lat="49.499462110108411" lon="0.167782410959342">
+    </trkpt>
+    <trkpt lat="49.499445214648553" lon="0.167850287438466">
+    </trkpt>
+    <trkpt lat="49.499439175795189" lon="0.1679023904965">
+    </trkpt>
+    <trkpt lat="49.499440292124717" lon="0.167947633764153">
+    </trkpt>
+    <trkpt lat="49.499335446554483" lon="0.167983937159502">
+    </trkpt>
+    <trkpt lat="49.499276493338591" lon="0.167787256440248">
+    </trkpt>
+    <trkpt lat="49.498993032929469" lon="0.166863611316056">
+    </trkpt>
+    <trkpt lat="49.499017495547974" lon="0.166858412118157">
+    </trkpt>
+    <trkpt lat="49.499013364728093" lon="0.166790690047577">
+    </trkpt>
+    <trkpt lat="49.499413938679226" lon="0.166680541444549">
+    </trkpt>
+    <trkpt lat="49.49942024598068" lon="0.166736808635803">
+    </trkpt>
+    <trkpt lat="49.499598851271344" lon="0.166699986056408">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>89</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Maison Municipale et Gymnase Bois au Coq</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maison Municipale Bois au Coq</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>50</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1586.168345475000024</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>159.910080403581986</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.518703531541099" lon="0.115469609571772">
+    </trkpt>
+    <trkpt lat="49.519000677946515" lon="0.115072407009526">
+    </trkpt>
+    <trkpt lat="49.519229535225932" lon="0.115482318625858">
+    </trkpt>
+    <trkpt lat="49.518991632323093" lon="0.11582115491424">
+    </trkpt>
+    <trkpt lat="49.518703531541099" lon="0.115469609571772">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>90</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Jardins Suspendus Sud rue du Fort</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jardins Suspendus Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>20</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>4</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>342.698834535</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>88.674938484350406</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.502547707434161" lon="0.09397315954666">
+    </trkpt>
+    <trkpt lat="49.502587562364411" lon="0.094019218823526">
+    </trkpt>
+    <trkpt lat="49.502588179386606" lon="0.094020096678834">
+    </trkpt>
+    <trkpt lat="49.502530102733488" lon="0.094218232102154">
+    </trkpt>
+    <trkpt lat="49.502509356779981" lon="0.094339195807069">
+    </trkpt>
+    <trkpt lat="49.502511320300314" lon="0.094416763175217">
+    </trkpt>
+    <trkpt lat="49.502453694654598" lon="0.094421117048629">
+    </trkpt>
+    <trkpt lat="49.502450520217181" lon="0.094342707360949">
+    </trkpt>
+    <trkpt lat="49.502408755848862" lon="0.094338802740766">
+    </trkpt>
+    <trkpt lat="49.502416295133308" lon="0.094236905975399">
+    </trkpt>
+    <trkpt lat="49.502511216554204" lon="0.093942436729419">
+    </trkpt>
+    <trkpt lat="49.502547707434161" lon="0.09397315954666">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>91</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Jardins Suspendus Est rue du Fort</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jardins Suspendus Est</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>22</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>446.847929765</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>127.677901258660995</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.503535123031924" lon="0.096882077188754">
+    </trkpt>
+    <trkpt lat="49.503975998902931" lon="0.096503361989902">
+    </trkpt>
+    <trkpt lat="49.504009782839553" lon="0.096601699991767">
+    </trkpt>
+    <trkpt lat="49.503574122637282" lon="0.09697449234398">
+    </trkpt>
+    <trkpt lat="49.503535123031924" lon="0.096882077188754">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>92</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Jardins Suspendus Nord rue Albert Copieux</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jardins Suspendus Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>110</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>4013.011078689999977</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>317.187801179792984</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.505810331134846" lon="0.096310910316216">
+    </trkpt>
+    <trkpt lat="49.505798052196496" lon="0.096201963186168">
+    </trkpt>
+    <trkpt lat="49.506154890532727" lon="0.095720019130205">
+    </trkpt>
+    <trkpt lat="49.50622362196389" lon="0.095613550626742">
+    </trkpt>
+    <trkpt lat="49.506262902621351" lon="0.095472277835918">
+    </trkpt>
+    <trkpt lat="49.506353990561742" lon="0.094838005344403">
+    </trkpt>
+    <trkpt lat="49.506410397821355" lon="0.094809046622422">
+    </trkpt>
+    <trkpt lat="49.506607700794127" lon="0.095831934724859">
+    </trkpt>
+    <trkpt lat="49.506594199907539" lon="0.095957046597634">
+    </trkpt>
+    <trkpt lat="49.506560850338211" lon="0.096050437346229">
+    </trkpt>
+    <trkpt lat="49.506493571566786" lon="0.096120259387255">
+    </trkpt>
+    <trkpt lat="49.506392734796584" lon="0.096181114188328">
+    </trkpt>
+    <trkpt lat="49.505810331134846" lon="0.096310910316216">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>93</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place de la Mare au Clerc</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Mare au Clerc</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>20</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2341.88650435</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>200.252459459541996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.512380977535933" lon="0.125912430755899">
+    </trkpt>
+    <trkpt lat="49.512324563599257" lon="0.125751223637677">
+    </trkpt>
+    <trkpt lat="49.512303625912175" lon="0.125628140891557">
+    </trkpt>
+    <trkpt lat="49.512299421562069" lon="0.125507726714473">
+    </trkpt>
+    <trkpt lat="49.512307285309575" lon="0.125393913144141">
+    </trkpt>
+    <trkpt lat="49.512319263130806" lon="0.125292288612242">
+    </trkpt>
+    <trkpt lat="49.512355197887629" lon="0.125158535163013">
+    </trkpt>
+    <trkpt lat="49.512384658143091" lon="0.125080009593713">
+    </trkpt>
+    <trkpt lat="49.512411100789279" lon="0.125023602101336">
+    </trkpt>
+    <trkpt lat="49.51259768177016" lon="0.124773449857116">
+    </trkpt>
+    <trkpt lat="49.51274703794919" lon="0.125413648342865">
+    </trkpt>
+    <trkpt lat="49.512380977535933" lon="0.125912430755899">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>94</ogr:OBJECTID>
+    <ogr:NOM_PARC>PLace Désiré Rebeuf</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>PLace Désiré Rebeuf</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>25</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>566.20666338</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>102.794733106714006</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.486458087051645" lon="0.135488661335648">
+    </trkpt>
+    <trkpt lat="49.486509735473149" lon="0.135699905075223">
+    </trkpt>
+    <trkpt lat="49.486208891586045" lon="0.135865603128435">
+    </trkpt>
+    <trkpt lat="49.486161885848226" lon="0.135662117802875">
+    </trkpt>
+    <trkpt lat="49.486458087051645" lon="0.135488661335648">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>95</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jean Maridor</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean Maridor</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>53</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1834.683566485000028</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>202.540563451715997</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.500168443780808" lon="0.158062225108873">
+    </trkpt>
+    <trkpt lat="49.500425014649501" lon="0.157996342735818">
+    </trkpt>
+    <trkpt lat="49.500469876120789" lon="0.158306872091619">
+    </trkpt>
+    <trkpt lat="49.500424921710795" lon="0.158317209314203">
+    </trkpt>
+    <trkpt lat="49.500512928309341" lon="0.158990815914906">
+    </trkpt>
+    <trkpt lat="49.500307216160294" lon="0.15904138517568">
+    </trkpt>
+    <trkpt lat="49.500168443780808" lon="0.158062225108873">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>96</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Maurice Blard Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maurice Blard Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>6</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>163.81139847</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>52.435578033209097</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.522052993143603" lon="0.161216520172364">
+    </trkpt>
+    <trkpt lat="49.522102980381852" lon="0.161013926700266">
+    </trkpt>
+    <trkpt lat="49.522191977454234" lon="0.161060299640338">
+    </trkpt>
+    <trkpt lat="49.52213781882265" lon="0.16126752525814">
+    </trkpt>
+    <trkpt lat="49.522052993143603" lon="0.161216520172364">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>97</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Maurice Blard </ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maurice Blard</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>28</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>684.467882120000013</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>105.951845306698999</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.521769500126339" lon="0.160785430937142">
+    </trkpt>
+    <trkpt lat="49.522011880198789" lon="0.160940248169919">
+    </trkpt>
+    <trkpt lat="49.521939251235892" lon="0.161267039804241">
+    </trkpt>
+    <trkpt lat="49.521934719477812" lon="0.161285955566106">
+    </trkpt>
+    <trkpt lat="49.521917683946846" lon="0.161290240269879">
+    </trkpt>
+    <trkpt lat="49.52171269757315" lon="0.161030112006211">
+    </trkpt>
+    <trkpt lat="49.521769500126339" lon="0.160785430937142">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>98</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Maurice Blard Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Maurice Blard Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>8</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>194.94388379</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>64.612855052778997</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.521421629105724" lon="0.160523767803571">
+    </trkpt>
+    <trkpt lat="49.521593628617161" lon="0.160749613151724">
+    </trkpt>
+    <trkpt lat="49.521543180931857" lon="0.160846907381732">
+    </trkpt>
+    <trkpt lat="49.521401434396516" lon="0.160631366133398">
+    </trkpt>
+    <trkpt lat="49.521410786816496" lon="0.160547440070154">
+    </trkpt>
+    <trkpt lat="49.521421629105724" lon="0.160523767803571">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>99</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Raymond Poincaré</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Raymond Poincaré</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>45</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>907.948416560000055</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>127.214645892380005</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.505239749001717" lon="0.102303157732954">
+    </trkpt>
+    <trkpt lat="49.505437119915655" lon="0.102340113019249">
+    </trkpt>
+    <trkpt lat="49.505429841592111" lon="0.102902989193019">
+    </trkpt>
+    <trkpt lat="49.505237309437291" lon="0.102895594030238">
+    </trkpt>
+    <trkpt lat="49.505239749001717" lon="0.102303157732954">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>100</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Raymond Queneau</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Raymond Queneau</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>46</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1452.570286449999912</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>199.415542773277991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.528152937474452" lon="0.11784072031282">
+    </trkpt>
+    <trkpt lat="49.528180207433898" lon="0.118973899556185">
+    </trkpt>
+    <trkpt lat="49.528070621704238" lon="0.118964303608314">
+    </trkpt>
+    <trkpt lat="49.528021301481736" lon="0.118945779911439">
+    </trkpt>
+    <trkpt lat="49.527984665314563" lon="0.118876466408592">
+    </trkpt>
+    <trkpt lat="49.527983188033097" lon="0.118817580571853">
+    </trkpt>
+    <trkpt lat="49.528019813699146" lon="0.118701038736447">
+    </trkpt>
+    <trkpt lat="49.527994926863805" lon="0.117848292004605">
+    </trkpt>
+    <trkpt lat="49.528152937474452" lon="0.11784072031282">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>101</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Robert Schuman</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Robert Schuman</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>146</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3627.634944089999863</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>241.863809024749003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.513751505725367" lon="0.162364519523672">
+    </trkpt>
+    <trkpt lat="49.513182148570394" lon="0.162114005123941">
+    </trkpt>
+    <trkpt lat="49.513327196141212" lon="0.161357174776554">
+    </trkpt>
+    <trkpt lat="49.513881661778946" lon="0.161651490195316">
+    </trkpt>
+    <trkpt lat="49.513751505725367" lon="0.162364519523672">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>102</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Commando Kieffer</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Commando Kieffer</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>40</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2231.746501194999837</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>199.035594765946996</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.507602025890961" lon="0.168342652424179">
+    </trkpt>
+    <trkpt lat="49.507581373570261" lon="0.167505502909282">
+    </trkpt>
+    <trkpt lat="49.508038885625488" lon="0.167492242961875">
+    </trkpt>
+    <trkpt lat="49.508047057508385" lon="0.167867525179037">
+    </trkpt>
+    <trkpt lat="49.507602025890961" lon="0.168342652424179">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>1</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place de la Médaille Militaire</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Médaille Militaire</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>28</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1451.60341483000002</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>177.558125879647008</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.502198381484078" lon="0.161585543254307">
+    </trkpt>
+    <trkpt lat="49.5022158582969" lon="0.161575452493495">
+    </trkpt>
+    <trkpt lat="49.502231817485409" lon="0.161587864579404">
+    </trkpt>
+    <trkpt lat="49.502251849690289" lon="0.162566877776275">
+    </trkpt>
+    <trkpt lat="49.502242444891792" lon="0.162580239232097">
+    </trkpt>
+    <trkpt lat="49.502230051905855" lon="0.16258523214631">
+    </trkpt>
+    <trkpt lat="49.501930611675455" lon="0.162286636253667">
+    </trkpt>
+    <trkpt lat="49.501921804341393" lon="0.162267929703571">
+    </trkpt>
+    <trkpt lat="49.501924107225399" lon="0.162248576968052">
+    </trkpt>
+    <trkpt lat="49.502198381484078" lon="0.161585543254307">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>2</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking de la Capitainerie Ouest</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Capitainerie Ouest</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>30</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>569.264445789999968</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>99.037770354163797</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.484352470764073" lon="0.103399750999141">
+    </trkpt>
+    <trkpt lat="49.484379800131286" lon="0.103746752551925">
+    </trkpt>
+    <trkpt lat="49.484334322523864" lon="0.103756035535241">
+    </trkpt>
+    <trkpt lat="49.4843351237881" lon="0.103787779779635">
+    </trkpt>
+    <trkpt lat="49.484183741588453" lon="0.103817612785114">
+    </trkpt>
+    <trkpt lat="49.484162288727113" lon="0.103505344841402">
+    </trkpt>
+    <trkpt lat="49.484212785979146" lon="0.103496859774835">
+    </trkpt>
+    <trkpt lat="49.484211017425025" lon="0.10342680141653">
+    </trkpt>
+    <trkpt lat="49.484352470764073" lon="0.103399750999141">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>3</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking de la Capitainerie Est</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Capitainerie Est</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>51</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1600.473835535000035</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>159.835988204581014</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.484098910970218" lon="0.10393733159357">
+    </trkpt>
+    <trkpt lat="49.484465025242017" lon="0.103874783096611">
+    </trkpt>
+    <trkpt lat="49.484488936609203" lon="0.103878843104652">
+    </trkpt>
+    <trkpt lat="49.484504895420862" lon="0.103897993044101">
+    </trkpt>
+    <trkpt lat="49.484517242061251" lon="0.10391553048967">
+    </trkpt>
+    <trkpt lat="49.484522456466188" lon="0.103933492055396">
+    </trkpt>
+    <trkpt lat="49.484528998625819" lon="0.103956856577793">
+    </trkpt>
+    <trkpt lat="49.484556313673473" lon="0.104331634624134">
+    </trkpt>
+    <trkpt lat="49.484130382727436" lon="0.104401794010375">
+    </trkpt>
+    <trkpt lat="49.484098910970218" lon="0.10393733159357">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>4</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking angle rues P. Farcis et I. Joliot Curie</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Farcis - I. Joliot Curie</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>18</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>438.914733020000028</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>85.848941258967599</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.515560252216169" lon="0.10492686072406">
+    </trkpt>
+    <trkpt lat="49.515700551272516" lon="0.105039368709116">
+    </trkpt>
+    <trkpt lat="49.515597827117773" lon="0.10536435330889">
+    </trkpt>
+    <trkpt lat="49.515558283648026" lon="0.10533758367749">
+    </trkpt>
+    <trkpt lat="49.515472057191772" lon="0.105264086577843">
+    </trkpt>
+    <trkpt lat="49.515560252216169" lon="0.10492686072406">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>5</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking angle rues Clairaut et I. Joliot Curie</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Clairaut - I. Joliot Curie</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>24</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>625.743573285000025</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>99.593257459963098</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.513800695878196" lon="0.104697179355633">
+    </trkpt>
+    <trkpt lat="49.513686996241425" lon="0.105034777173439">
+    </trkpt>
+    <trkpt lat="49.513489539384011" lon="0.104875028723999">
+    </trkpt>
+    <trkpt lat="49.513572744569473" lon="0.104618241248332">
+    </trkpt>
+    <trkpt lat="49.513603621551006" lon="0.104604926966049">
+    </trkpt>
+    <trkpt lat="49.513800695878196" lon="0.104697179355633">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>6</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking angle rues L. Braille et I. Joliot Curie</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Braille - I. Joliot Curie</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>11</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>236.703476099999989</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>63.312540794669303</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.51104521934343" lon="0.102632975721993">
+    </trkpt>
+    <trkpt lat="49.511145329651406" lon="0.102722447829957">
+    </trkpt>
+    <trkpt lat="49.511072457672014" lon="0.102919841489715">
+    </trkpt>
+    <trkpt lat="49.510956021456394" lon="0.10280611228885">
+    </trkpt>
+    <trkpt lat="49.511001256825857" lon="0.102673983972027">
+    </trkpt>
+    <trkpt lat="49.511023176872584" lon="0.102693520171592">
+    </trkpt>
+    <trkpt lat="49.51104521934343" lon="0.102632975721993">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>7</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Stade Océane</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stade Océane</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>165</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>11</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>4641.484631614999671</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>509.976214348014025</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.497408526796093" lon="0.168581250780922">
+    </trkpt>
+    <trkpt lat="49.497430554989073" lon="0.168493526557964">
+    </trkpt>
+    <trkpt lat="49.497491972649549" lon="0.168534274941992">
+    </trkpt>
+    <trkpt lat="49.497503046646976" lon="0.168536829148036">
+    </trkpt>
+    <trkpt lat="49.497509561797074" lon="0.168535537107041">
+    </trkpt>
+    <trkpt lat="49.497514192066909" lon="0.168530241940041">
+    </trkpt>
+    <trkpt lat="49.497519259587726" lon="0.168518524984685">
+    </trkpt>
+    <trkpt lat="49.497482296023144" lon="0.168491889512752">
+    </trkpt>
+    <trkpt lat="49.497521628667819" lon="0.168361210809289">
+    </trkpt>
+    <trkpt lat="49.497546982147661" lon="0.168291201323635">
+    </trkpt>
+    <trkpt lat="49.497576760252016" lon="0.168219562599212">
+    </trkpt>
+    <trkpt lat="49.49761237281249" lon="0.168251759689198">
+    </trkpt>
+    <trkpt lat="49.497626078763624" lon="0.168216238414881">
+    </trkpt>
+    <trkpt lat="49.497591026351849" lon="0.168182638309934">
+    </trkpt>
+    <trkpt lat="49.497705631025561" lon="0.167930614237206">
+    </trkpt>
+    <trkpt lat="49.497789793987621" lon="0.167783620812453">
+    </trkpt>
+    <trkpt lat="49.497914284027971" lon="0.167594529295398">
+    </trkpt>
+    <trkpt lat="49.49794176317058" lon="0.167646845828425">
+    </trkpt>
+    <trkpt lat="49.497963386712463" lon="0.167618630441962">
+    </trkpt>
+    <trkpt lat="49.49793570022662" lon="0.16756998145326">
+    </trkpt>
+    <trkpt lat="49.498001484611763" lon="0.167486195148586">
+    </trkpt>
+    <trkpt lat="49.498066748314031" lon="0.167417518191717">
+    </trkpt>
+    <trkpt lat="49.498115478373236" lon="0.167366249932617">
+    </trkpt>
+    <trkpt lat="49.498137357252254" lon="0.167420720110251">
+    </trkpt>
+    <trkpt lat="49.49815473711881" lon="0.167401432872181">
+    </trkpt>
+    <trkpt lat="49.49810940397186" lon="0.167288928690502">
+    </trkpt>
+    <trkpt lat="49.49815558387435" lon="0.167242835980195">
+    </trkpt>
+    <trkpt lat="49.498201819668992" lon="0.167355744999298">
+    </trkpt>
+    <trkpt lat="49.498219255803754" lon="0.167338738097503">
+    </trkpt>
+    <trkpt lat="49.498197090744988" lon="0.167284741796561">
+    </trkpt>
+    <trkpt lat="49.498288544160509" lon="0.167204029923279">
+    </trkpt>
+    <trkpt lat="49.498358271870927" lon="0.167147428114833">
+    </trkpt>
+    <trkpt lat="49.498376629668542" lon="0.167203931091354">
+    </trkpt>
+    <trkpt lat="49.498399711224032" lon="0.167186597000542">
+    </trkpt>
+    <trkpt lat="49.498380680671467" lon="0.167126934906367">
+    </trkpt>
+    <trkpt lat="49.498488259492262" lon="0.167048482438496">
+    </trkpt>
+    <trkpt lat="49.498541578420827" lon="0.16701431084803">
+    </trkpt>
+    <trkpt lat="49.498617610118401" lon="0.166971962458226">
+    </trkpt>
+    <trkpt lat="49.498631655956558" lon="0.167034657166357">
+    </trkpt>
+    <trkpt lat="49.498655929446329" lon="0.167019972415161">
+    </trkpt>
+    <trkpt lat="49.498681389728539" lon="0.167125518718109">
+    </trkpt>
+    <trkpt lat="49.498659460755277" lon="0.167201655916349">
+    </trkpt>
+    <trkpt lat="49.498640750101771" lon="0.167261521962501">
+    </trkpt>
+    <trkpt lat="49.498619536950109" lon="0.167320363390948">
+    </trkpt>
+    <trkpt lat="49.498593810634667" lon="0.167381514762343">
+    </trkpt>
+    <trkpt lat="49.498572625308327" lon="0.167426026571003">
+    </trkpt>
+    <trkpt lat="49.498552171277602" lon="0.167469325638131">
+    </trkpt>
+    <trkpt lat="49.498518084170065" lon="0.167531256104416">
+    </trkpt>
+    <trkpt lat="49.498448142606257" lon="0.167583574800801">
+    </trkpt>
+    <trkpt lat="49.498460332064319" lon="0.167614447499985">
+    </trkpt>
+    <trkpt lat="49.498408095407463" lon="0.167658717937459">
+    </trkpt>
+    <trkpt lat="49.498308169875699" lon="0.167754012138057">
+    </trkpt>
+    <trkpt lat="49.498259896034625" lon="0.167804485537046">
+    </trkpt>
+    <trkpt lat="49.498193670885108" lon="0.167876180143155">
+    </trkpt>
+    <trkpt lat="49.498139304070442" lon="0.167942212720951">
+    </trkpt>
+    <trkpt lat="49.49807738254782" lon="0.168026229853466">
+    </trkpt>
+    <trkpt lat="49.498028468622472" lon="0.168104812411822">
+    </trkpt>
+    <trkpt lat="49.497996928860353" lon="0.168061613488413">
+    </trkpt>
+    <trkpt lat="49.49796739380637" lon="0.168115091199056">
+    </trkpt>
+    <trkpt lat="49.497899684453678" lon="0.168242430240988">
+    </trkpt>
+    <trkpt lat="49.49788008189708" lon="0.168219884238527">
+    </trkpt>
+    <trkpt lat="49.497786377726783" lon="0.168111874578789">
+    </trkpt>
+    <trkpt lat="49.497754230961881" lon="0.168075364523466">
+    </trkpt>
+    <trkpt lat="49.497743084414722" lon="0.168101233669507">
+    </trkpt>
+    <trkpt lat="49.497773970544564" lon="0.168137269973691">
+    </trkpt>
+    <trkpt lat="49.497759695505316" lon="0.168166610443753">
+    </trkpt>
+    <trkpt lat="49.497707697387547" lon="0.168288064480854">
+    </trkpt>
+    <trkpt lat="49.497662802821893" lon="0.168408009611778">
+    </trkpt>
+    <trkpt lat="49.497627171965561" lon="0.168512610206527">
+    </trkpt>
+    <trkpt lat="49.497599776219005" lon="0.168603574310606">
+    </trkpt>
+    <trkpt lat="49.497559887633813" lon="0.168579027733786">
+    </trkpt>
+    <trkpt lat="49.497540080204097" lon="0.168659132498138">
+    </trkpt>
+    <trkpt lat="49.497494776110273" lon="0.168632159915991">
+    </trkpt>
+    <trkpt lat="49.497488178335416" lon="0.168668730647305">
+    </trkpt>
+    <trkpt lat="49.497497928454457" lon="0.168673098414494">
+    </trkpt>
+    <trkpt lat="49.497481275542029" lon="0.168750825782992">
+    </trkpt>
+    <trkpt lat="49.49744004209321" lon="0.168729648083161">
+    </trkpt>
+    <trkpt lat="49.497458174952676" lon="0.168654027157291">
+    </trkpt>
+    <trkpt lat="49.497470077929279" lon="0.168658816806607">
+    </trkpt>
+    <trkpt lat="49.497478801605389" lon="0.168621575391422">
+    </trkpt>
+    <trkpt lat="49.497408526796093" lon="0.168581250780922">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>8</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Stade Océane</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stade Océane</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>90</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2662.992390214999887</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>407.105044695118977</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.498028042419385" lon="0.17135347969387">
+    </trkpt>
+    <trkpt lat="49.497986068289109" lon="0.171369807904569">
+    </trkpt>
+    <trkpt lat="49.497999090233733" lon="0.171453854316426">
+    </trkpt>
+    <trkpt lat="49.49783788886171" lon="0.17146248803879">
+    </trkpt>
+    <trkpt lat="49.497760808071057" lon="0.171464771975369">
+    </trkpt>
+    <trkpt lat="49.497747597778456" lon="0.171392434140331">
+    </trkpt>
+    <trkpt lat="49.497706905686016" lon="0.171402839828269">
+    </trkpt>
+    <trkpt lat="49.497672026626823" lon="0.171146806317963">
+    </trkpt>
+    <trkpt lat="49.497712189417712" lon="0.171134238722392">
+    </trkpt>
+    <trkpt lat="49.497707853693164" lon="0.171093551048216">
+    </trkpt>
+    <trkpt lat="49.497666685410536" lon="0.17110398464516">
+    </trkpt>
+    <trkpt lat="49.49762941020483" lon="0.170847359932125">
+    </trkpt>
+    <trkpt lat="49.497669501873581" lon="0.170831871583199">
+    </trkpt>
+    <trkpt lat="49.497664088550742" lon="0.170786129482285">
+    </trkpt>
+    <trkpt lat="49.497536086911538" lon="0.170770174112405">
+    </trkpt>
+    <trkpt lat="49.497545720578721" lon="0.170871229370618">
+    </trkpt>
+    <trkpt lat="49.497589686787279" lon="0.170858440584402">
+    </trkpt>
+    <trkpt lat="49.4976237417928" lon="0.171119638461953">
+    </trkpt>
+    <trkpt lat="49.49758452967486" lon="0.17113215219566">
+    </trkpt>
+    <trkpt lat="49.497589906853278" lon="0.171176433340062">
+    </trkpt>
+    <trkpt lat="49.497628113480907" lon="0.171161785610062">
+    </trkpt>
+    <trkpt lat="49.497666374624991" lon="0.171419816254471">
+    </trkpt>
+    <trkpt lat="49.497626723090946" lon="0.171433815532396">
+    </trkpt>
+    <trkpt lat="49.497630879681175" lon="0.171467202646942">
+    </trkpt>
+    <trkpt lat="49.497485331452552" lon="0.171473465320673">
+    </trkpt>
+    <trkpt lat="49.497479641864452" lon="0.171435781097488">
+    </trkpt>
+    <trkpt lat="49.497566022487838" lon="0.171405176243749">
+    </trkpt>
+    <trkpt lat="49.497562522015201" lon="0.171379061973125">
+    </trkpt>
+    <trkpt lat="49.497521901863557" lon="0.171392386710402">
+    </trkpt>
+    <trkpt lat="49.497474485524933" lon="0.171072019438191">
+    </trkpt>
+    <trkpt lat="49.497516989825712" lon="0.171057854161372">
+    </trkpt>
+    <trkpt lat="49.497513093418156" lon="0.171015679502331">
+    </trkpt>
+    <trkpt lat="49.497468157668855" lon="0.171027793642751">
+    </trkpt>
+    <trkpt lat="49.497440671809123" lon="0.17080130503287">
+    </trkpt>
+    <trkpt lat="49.497480377232527" lon="0.170789494599314">
+    </trkpt>
+    <trkpt lat="49.497477828121653" lon="0.170763323749423">
+    </trkpt>
+    <trkpt lat="49.497390809519253" lon="0.170787388071894">
+    </trkpt>
+    <trkpt lat="49.4973840031398" lon="0.170704444697283">
+    </trkpt>
+    <trkpt lat="49.49747486118509" lon="0.170681620137023">
+    </trkpt>
+    <trkpt lat="49.49773841831157" lon="0.170710899069602">
+    </trkpt>
+    <trkpt lat="49.497847310944344" lon="0.170724309242065">
+    </trkpt>
+    <trkpt lat="49.497912836484637" lon="0.170852092214797">
+    </trkpt>
+    <trkpt lat="49.497916740408904" lon="0.170875258537232">
+    </trkpt>
+    <trkpt lat="49.497956024485703" lon="0.170865664993877">
+    </trkpt>
+    <trkpt lat="49.497977961481332" lon="0.171021566656727">
+    </trkpt>
+    <trkpt lat="49.498028042419385" lon="0.17135347969387">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>9</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Stade Océane</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stade Océane</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>331</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>6942.725135464999767</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>786.808763925865946</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.497884874316789" lon="0.172173187606342">
+    </trkpt>
+    <trkpt lat="49.497882555657405" lon="0.172108076262977">
+    </trkpt>
+    <trkpt lat="49.497881602348123" lon="0.172025888892566">
+    </trkpt>
+    <trkpt lat="49.497880421185066" lon="0.171963452405978">
+    </trkpt>
+    <trkpt lat="49.498097632059434" lon="0.171952480363567">
+    </trkpt>
+    <trkpt lat="49.49826107718583" lon="0.171947921866871">
+    </trkpt>
+    <trkpt lat="49.498261834206225" lon="0.172007642536701">
+    </trkpt>
+    <trkpt lat="49.498290020005584" lon="0.172006553931979">
+    </trkpt>
+    <trkpt lat="49.49828745242651" lon="0.171945841460509">
+    </trkpt>
+    <trkpt lat="49.498485077350793" lon="0.171937105174949">
+    </trkpt>
+    <trkpt lat="49.498708734260489" lon="0.171926855408622">
+    </trkpt>
+    <trkpt lat="49.498827826336083" lon="0.171919389635403">
+    </trkpt>
+    <trkpt lat="49.498828677798016" lon="0.171982943427685">
+    </trkpt>
+    <trkpt lat="49.49885579345537" lon="0.171981916952554">
+    </trkpt>
+    <trkpt lat="49.498854255554633" lon="0.171919499937693">
+    </trkpt>
+    <trkpt lat="49.499068997311632" lon="0.171909767843075">
+    </trkpt>
+    <trkpt lat="49.499264482845589" lon="0.171901155536498">
+    </trkpt>
+    <trkpt lat="49.499433579610248" lon="0.171894074572933">
+    </trkpt>
+    <trkpt lat="49.499435514722094" lon="0.171958114690889">
+    </trkpt>
+    <trkpt lat="49.49944116146559" lon="0.172100345259784">
+    </trkpt>
+    <trkpt lat="49.499354493467031" lon="0.172104830522499">
+    </trkpt>
+    <trkpt lat="49.499075549478555" lon="0.172117742211307">
+    </trkpt>
+    <trkpt lat="49.498859025033305" lon="0.172127576927153">
+    </trkpt>
+    <trkpt lat="49.498857816937601" lon="0.172064043810994">
+    </trkpt>
+    <trkpt lat="49.498830687785528" lon="0.172064522553602">
+    </trkpt>
+    <trkpt lat="49.498831909374658" lon="0.17212860332127">
+    </trkpt>
+    <trkpt lat="49.498592904751327" lon="0.172139195098376">
+    </trkpt>
+    <trkpt lat="49.49841062750842" lon="0.172147587676409">
+    </trkpt>
+    <trkpt lat="49.498292524631054" lon="0.172151705970368">
+    </trkpt>
+    <trkpt lat="49.498291357030304" lon="0.17208981663484">
+    </trkpt>
+    <trkpt lat="49.498246411969511" lon="0.17209187856232">
+    </trkpt>
+    <trkpt lat="49.498250814567328" lon="0.172256110955574">
+    </trkpt>
+    <trkpt lat="49.49829400391242" lon="0.172255246692533">
+    </trkpt>
+    <trkpt lat="49.49829356328857" lon="0.172193863599374">
+    </trkpt>
+    <trkpt lat="49.498380271772753" lon="0.172191021638213">
+    </trkpt>
+    <trkpt lat="49.498588581009287" lon="0.172181115957662">
+    </trkpt>
+    <trkpt lat="49.498814721477693" lon="0.17217017596062">
+    </trkpt>
+    <trkpt lat="49.499055179046628" lon="0.172160596847748">
+    </trkpt>
+    <trkpt lat="49.499326977066758" lon="0.172147551969621">
+    </trkpt>
+    <trkpt lat="49.499441843462094" lon="0.172142525979277">
+    </trkpt>
+    <trkpt lat="49.499444094669258" lon="0.172204902319149">
+    </trkpt>
+    <trkpt lat="49.499446515184609" lon="0.172288652543354">
+    </trkpt>
+    <trkpt lat="49.499447682678181" lon="0.172350543351283">
+    </trkpt>
+    <trkpt lat="49.499377707367771" lon="0.172351316349215">
+    </trkpt>
+    <trkpt lat="49.499381137964384" lon="0.172447071525054">
+    </trkpt>
+    <trkpt lat="49.499379103275608" lon="0.172523951550156">
+    </trkpt>
+    <trkpt lat="49.499379632989928" lon="0.172603425032924">
+    </trkpt>
+    <trkpt lat="49.499240900912483" lon="0.172610932762286">
+    </trkpt>
+    <trkpt lat="49.499068251353542" lon="0.172618765989716">
+    </trkpt>
+    <trkpt lat="49.498942989895355" lon="0.172622201947688">
+    </trkpt>
+    <trkpt lat="49.498867665670467" lon="0.172623285155419">
+    </trkpt>
+    <trkpt lat="49.498866882021041" lon="0.172562469738062">
+    </trkpt>
+    <trkpt lat="49.498840493277932" lon="0.172564002148201">
+    </trkpt>
+    <trkpt lat="49.498841674114423" lon="0.172626439879896">
+    </trkpt>
+    <trkpt lat="49.498693644083211" lon="0.172633390445294">
+    </trkpt>
+    <trkpt lat="49.498525603022273" lon="0.172639858961869">
+    </trkpt>
+    <trkpt lat="49.498421818123219" lon="0.172645337130406">
+    </trkpt>
+    <trkpt lat="49.498301932556856" lon="0.172649557734993">
+    </trkpt>
+    <trkpt lat="49.498300778715908" lon="0.172588216056625">
+    </trkpt>
+    <trkpt lat="49.498257205637422" lon="0.172588003998073">
+    </trkpt>
+    <trkpt lat="49.498258083711704" lon="0.172652652418737">
+    </trkpt>
+    <trkpt lat="49.498204950406951" lon="0.172655737762807">
+    </trkpt>
+    <trkpt lat="49.498202605038259" lon="0.17258953060878">
+    </trkpt>
+    <trkpt lat="49.498195827255401" lon="0.172198442928035">
+    </trkpt>
+    <trkpt lat="49.498193937233566" lon="0.172092732415203">
+    </trkpt>
+    <trkpt lat="49.49815543731382" lon="0.172095516931924">
+    </trkpt>
+    <trkpt lat="49.498156780293407" lon="0.172164524546275">
+    </trkpt>
+    <trkpt lat="49.498015445127166" lon="0.172167798210258">
+    </trkpt>
+    <trkpt lat="49.497884874316789" lon="0.172173187606342">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>10</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Stade Océane</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Stade Océane</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>38</ogr:NB_PLACE_TOTAL>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1365.668485619999956</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>153.155654375766005</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.499895055903714" lon="0.171875781288364">
+    </trkpt>
+    <trkpt lat="49.49989723529589" lon="0.171935237595802">
+    </trkpt>
+    <trkpt lat="49.499923669000694" lon="0.171935530015618">
+    </trkpt>
+    <trkpt lat="49.499929039688332" lon="0.172192194071147">
+    </trkpt>
+    <trkpt lat="49.49993039886705" lon="0.172266685322623">
+    </trkpt>
+    <trkpt lat="49.499905463935981" lon="0.17226922907605">
+    </trkpt>
+    <trkpt lat="49.499906799529711" lon="0.172333122268072">
+    </trkpt>
+    <trkpt lat="49.499756241949576" lon="0.172338941340302">
+    </trkpt>
+    <trkpt lat="49.499592608154593" lon="0.17234551979042">
+    </trkpt>
+    <trkpt lat="49.499590541194735" lon="0.172280940022939">
+    </trkpt>
+    <trkpt lat="49.499539418775896" lon="0.172283542958125">
+    </trkpt>
+    <trkpt lat="49.499533075418192" lon="0.172035711726969">
+    </trkpt>
+    <trkpt lat="49.499531783324692" lon="0.171954272092303">
+    </trkpt>
+    <trkpt lat="49.4995835912761" lon="0.171950532034821">
+    </trkpt>
+    <trkpt lat="49.499580846630103" lon="0.171887453336685">
+    </trkpt>
+    <trkpt lat="49.499769962533612" lon="0.171881219629887">
+    </trkpt>
+    <trkpt lat="49.499895055903714" lon="0.171875781288364">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>11</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Albert Brenet Nord</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Albert Brenet Nord</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>34</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>0</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1063.792017355000098</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>136.638435243931013</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.519306348876803" lon="0.11619609040364">
+    </trkpt>
+    <trkpt lat="49.519498706137405" lon="0.115930165480573">
+    </trkpt>
+    <trkpt lat="49.519752891093347" lon="0.116381737186229">
+    </trkpt>
+    <trkpt lat="49.51962343440124" lon="0.116573719608823">
+    </trkpt>
+    <trkpt lat="49.519306348876803" lon="0.11619609040364">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>12</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Albert Brenet Sud</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Albert Brenet Sud</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>16</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>0</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>611.881248089999985</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>104.845129890259003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.519517196717558" lon="0.11670435056991">
+    </trkpt>
+    <trkpt lat="49.519379107969719" lon="0.116893917886091">
+    </trkpt>
+    <trkpt lat="49.519170356903899" lon="0.116544976718399">
+    </trkpt>
+    <trkpt lat="49.519270668832284" lon="0.116405919348509">
+    </trkpt>
+    <trkpt lat="49.519517196717558" lon="0.11670435056991">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>13</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Fleurus</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Fleurus</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>18</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>400.459559565</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>83.431748751122001</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.490798021844959" lon="0.140001649894686">
+    </trkpt>
+    <trkpt lat="49.490646979329085" lon="0.140293766166303">
+    </trkpt>
+    <trkpt lat="49.490545917666068" lon="0.14015533720317">
+    </trkpt>
+    <trkpt lat="49.490694170416909" lon="0.13987069631824">
+    </trkpt>
+    <trkpt lat="49.490798021844959" lon="0.140001649894686">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>14</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Carlier</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Place Carlier</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>73</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2816.069655774999774</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>219.721108903735995</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.484017552965845" lon="0.130685398092212">
+    </trkpt>
+    <trkpt lat="49.484426115045764" lon="0.130813085611304">
+    </trkpt>
+    <trkpt lat="49.484350202415008" lon="0.130979938907535">
+    </trkpt>
+    <trkpt lat="49.484387822804003" lon="0.131140102678032">
+    </trkpt>
+    <trkpt lat="49.484335170911777" lon="0.131565089169685">
+    </trkpt>
+    <trkpt lat="49.484154264763205" lon="0.131763922727119">
+    </trkpt>
+    <trkpt lat="49.484023163796586" lon="0.1315424918878">
+    </trkpt>
+    <trkpt lat="49.483930748019624" lon="0.131444739848958">
+    </trkpt>
+    <trkpt lat="49.483990154497846" lon="0.131092201865303">
+    </trkpt>
+    <trkpt lat="49.484017552965845" lon="0.130685398092212">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>plein air barriéré</type>
+  <extensions>
+    <ogr:OBJECTID>15</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement des Bains des Docks</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Bains des Docks</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>279</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>25</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>6246.817334549999941</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>317.328767436112003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.487822162862287" lon="0.127607585629407">
+    </trkpt>
+    <trkpt lat="49.488058365832387" lon="0.128540925895899">
+    </trkpt>
+    <trkpt lat="49.487335159474242" lon="0.128968730976904">
+    </trkpt>
+    <trkpt lat="49.487099717316958" lon="0.128036468342334">
+    </trkpt>
+    <trkpt lat="49.487822162862287" lon="0.127607585629407">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>16</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Jean-Jacques Rousseau</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jean-Jacques Rousseau</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>555</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>13</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3217.937929600000189</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>237.242491637325003</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.496980340174758" lon="0.132540637769836">
+    </trkpt>
+    <trkpt lat="49.4966044934609" lon="0.132590068746744">
+    </trkpt>
+    <trkpt lat="49.496543613950628" lon="0.131535624231609">
+    </trkpt>
+    <trkpt lat="49.496620433593236" lon="0.131526568731393">
+    </trkpt>
+    <trkpt lat="49.496921732834643" lon="0.13149031187907">
+    </trkpt>
+    <trkpt lat="49.496921828460422" lon="0.131492013794876">
+    </trkpt>
+    <trkpt lat="49.49692160155238" lon="0.131492043740772">
+    </trkpt>
+    <trkpt lat="49.496938775833343" lon="0.13180237935618">
+    </trkpt>
+    <trkpt lat="49.496939144463951" lon="0.13180233139279">
+    </trkpt>
+    <trkpt lat="49.496980340174758" lon="0.132540637769836">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>libre</type>
+  <extensions>
+    <ogr:OBJECTID>17</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking CNH</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>CNH</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>128</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>4</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3924.892954410000129</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>271.458055836314998</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.492912364131605" lon="0.096037945999853">
+    </trkpt>
+    <trkpt lat="49.492767652334472" lon="0.096152572437289">
+    </trkpt>
+    <trkpt lat="49.492642639524647" lon="0.096245919755875">
+    </trkpt>
+    <trkpt lat="49.492500938658075" lon="0.096338434089342">
+    </trkpt>
+    <trkpt lat="49.492304158140492" lon="0.0964652999877">
+    </trkpt>
+    <trkpt lat="49.492118663437168" lon="0.096567734608396">
+    </trkpt>
+    <trkpt lat="49.49208775901468" lon="0.096569577274483">
+    </trkpt>
+    <trkpt lat="49.492111906569413" lon="0.095689118706347">
+    </trkpt>
+    <trkpt lat="49.492131719245812" lon="0.095578288224895">
+    </trkpt>
+    <trkpt lat="49.492149490632521" lon="0.095527885924366">
+    </trkpt>
+    <trkpt lat="49.49287960088585" lon="0.095919285069144">
+    </trkpt>
+    <trkpt lat="49.492912364131605" lon="0.096037945999853">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>18</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement de l'Hôtel de Ville</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Hôtel de Ville</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>500</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>6</ogr:NB_PLACE_GIGGIC>
+    <ogr:NB_PLACE_VEHIC_ELEC>2</ogr:NB_PLACE_VEHIC_ELEC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>8133.488582119999592</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>445.040347896832998</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.493860424366019" lon="0.108970619029159">
+    </trkpt>
+    <trkpt lat="49.493445120276611" lon="0.108956550578146">
+    </trkpt>
+    <trkpt lat="49.493505358442469" lon="0.107077179755768">
+    </trkpt>
+    <trkpt lat="49.493509345627736" lon="0.106952742370538">
+    </trkpt>
+    <trkpt lat="49.493510500576036" lon="0.10691670813876">
+    </trkpt>
+    <trkpt lat="49.493518758134499" lon="0.106658990460691">
+    </trkpt>
+    <trkpt lat="49.493523451763963" lon="0.106512517193848">
+    </trkpt>
+    <trkpt lat="49.493936649963175" lon="0.106550276788551">
+    </trkpt>
+    <trkpt lat="49.493860424366019" lon="0.108970619029159">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>19</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Jules Ferry</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Jules Ferry</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>130</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>0</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>2935.893020134999915</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>216.844884205017991</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.492091494451387" lon="0.112253572449576">
+    </trkpt>
+    <trkpt lat="49.49159171116402" lon="0.112223269787133">
+    </trkpt>
+    <trkpt lat="49.491609587126725" lon="0.11149561709973">
+    </trkpt>
+    <trkpt lat="49.492114309134173" lon="0.111532928305147">
+    </trkpt>
+    <trkpt lat="49.492091494451387" lon="0.112253572449576">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>20</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Flore</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Flore</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>35</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1335.002082299999984</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>159.357673007205989</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.500787595963345" lon="0.129262618692795">
+    </trkpt>
+    <trkpt lat="49.500827206079364" lon="0.129593047455345">
+    </trkpt>
+    <trkpt lat="49.500344118650766" lon="0.129769833124083">
+    </trkpt>
+    <trkpt lat="49.500298049526158" lon="0.129450863323677">
+    </trkpt>
+    <trkpt lat="49.500787595963345" lon="0.129262618692795">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>21</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking Montesquieu</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Montesquieu</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>36</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>2</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1011.443990095</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>150.66421669633101</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.500586897164737" lon="0.130600878487152">
+    </trkpt>
+    <trkpt lat="49.500136589221434" lon="0.130777737223445">
+    </trkpt>
+    <trkpt lat="49.500113215903347" lon="0.130229261256084">
+    </trkpt>
+    <trkpt lat="49.500586897164737" lon="0.130600878487152">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>22</ogr:OBJECTID>
+    <ogr:NOM_PARC>Place Pierre Courant</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Pierre Courant</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>65</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>orange</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1530.839314025000022</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>161.159870004081</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.492075376321282" lon="0.11684174034613">
+    </trkpt>
+    <trkpt lat="49.492529051882947" lon="0.116879438567825">
+    </trkpt>
+    <trkpt lat="49.492493307877396" lon="0.117300546438131">
+    </trkpt>
+    <trkpt lat="49.492053186927585" lon="0.117266293810003">
+    </trkpt>
+    <trkpt lat="49.492075376321282" lon="0.11684174034613">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>horodaté</type>
+  <extensions>
+    <ogr:OBJECTID>23</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parking de l'Alma</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Alma</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>49</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>1</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>verte</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>1358.194161870000016</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>185.107921323834006</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.496032652081418" lon="0.09786362639998">
+    </trkpt>
+    <trkpt lat="49.496586114746954" lon="0.098017982775859">
+    </trkpt>
+    <trkpt lat="49.496567187504866" lon="0.09821123416534">
+    </trkpt>
+    <trkpt lat="49.496512122179496" lon="0.098198943310589">
+    </trkpt>
+    <trkpt lat="49.496488778161513" lon="0.098433907381803">
+    </trkpt>
+    <trkpt lat="49.496262410744862" lon="0.09837940970776">
+    </trkpt>
+    <trkpt lat="49.49628763935732" lon="0.098160657016463">
+    </trkpt>
+    <trkpt lat="49.496057230615293" lon="0.098101214107382">
+    </trkpt>
+    <trkpt lat="49.496032652081418" lon="0.09786362639998">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <type>couvert</type>
+  <extensions>
+    <ogr:OBJECTID>24</ogr:OBJECTID>
+    <ogr:NOM_PARC>Parc de stationnement Vauban - P4</ogr:NOM_PARC>
+    <ogr:ETIQUETTE>Vauban - P4</ogr:ETIQUETTE>
+    <ogr:NB_PLACE_TOTAL>470</ogr:NB_PLACE_TOTAL>
+    <ogr:NB_PLACE_GIGGIC>14</ogr:NB_PLACE_GIGGIC>
+    <ogr:ZONE_TARIFAIRE>sans</ogr:ZONE_TARIFAIRE>
+    <ogr:SHAPE.AREA>3307.041616649999924</ogr:SHAPE.AREA>
+    <ogr:SHAPE.LEN>233.543654925160013</ogr:SHAPE.LEN>
+  </extensions>
+  <trkseg>
+    <trkpt lat="49.489677746153127" lon="0.127839110026856">
+    </trkpt>
+    <trkpt lat="49.489519347848805" lon="0.12721471202646">
+    </trkpt>
+    <trkpt lat="49.490093965788333" lon="0.126887885342254">
+    </trkpt>
+    <trkpt lat="49.490255892243297" lon="0.12750365969009">
+    </trkpt>
+    <trkpt lat="49.489677746153127" lon="0.127839110026856">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,45 @@
+<html>
+<title>test</title>
+<head></head>
+<body>
+
+<h1> Parking</h1>
+<% for(let i = 0; i < 1; i++) { %>
+
+<p>
+
+    <%= "Nom: " + parcs[i].Name + "\n" %>
+    <%= "Id: " + parcs[i].OBJECTID + "\n" %>
+    <%= "Type: " + parcs[i].type + "\n" %>
+    <%= "Etiquette: " + parcs[i].ETIQUETTE + "\n" %>
+    <%= "ZONE_TARIFAIREE: " + parcs[i].ZONE_TARIFAIREE + "\n" %>
+    <%= "Nombre de place total: " + parcs[i].NB_PLACE_TOTAL + "\n" %>
+    <%= "Nombre de place vehicule elect: " + parcs[i].NB_PLACE_VEHIC_ELEC + "\n" %>
+    <%= "Nombre de place vehicule GIG: " + parcs[i].NB_PLACE_GIGGIC + "\n" %>
+    <%= "Coordinate: " + parcs[i].coordinates + "\n" %>
+    <%= "SHape area: " + parcs[i].SHAPE_AREA + "\n" %>
+    <%= "SHape len: " + parcs[i].SHAPE_LEN + "\n" %>
+
+
+    <%= parcs[i].OBJECTID %>
+</p>
+<% } %>
+<h1> Tronçons</h1>
+<% for(let i = 0; i < 1; i++) { %>
+<p>
+    <%= "Voie: " + trancon[i].VOIE + "\n" %>
+    <%= "Id: " + trancon[i].OBJECTID + "\n" %>
+    <%= "Type stationement: " + trancon[i].TYPE_STATIONNEMENT + "\n" %>
+    <%= "Num voie: " + parcs[i].NUM_VOIE + "\n" %>
+    <%= "Emplacement: " + trancon[i].EMPLACEMENT + "\n" %>
+    <%= "Zone tarification: " + trancon[i].ZONE_TARIFICATION + "\n" %>
+    <%= "Capacite: " + trancon[i].CAPACITE + "\n" %>
+    <%= "Coordinate: " + trancon[i].coordinates + "\n" %>
+    <%= "SHape area: " + trancon[i].SHAPE_AREA + "\n" %>
+    <%= "SHape len: " + trancon[i].SHAPE_LEN + "\n" %>
+
+</p>
+
+<% } %>
+</body>
+</html>
